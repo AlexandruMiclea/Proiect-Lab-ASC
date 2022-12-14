@@ -1,14 +1,18 @@
-input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/inputs/"
+input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/first_inputs/"
 output_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/matrix_first_inputs/"
 
 for i in range(10):
+    data = []
 
-    with open(input_location + f"test{i+1}.txt") as file:
-        data = file.readlines()
-        data = [x.strip(" \n") for x in data]
+    filer = open(input_location + f"test{i+1}.txt", "r")
+    data = filer.readlines().copy()
+    data = [x.strip(" \n") for x in data]
+    print(data)
+
+    with open(output_location + f"test{i+1}.txt", "w") as file:
         #print(data)
         
-        print(data, sep='\n')
+        #print(data, sep='\n')
         #print('\n')
         #ce e in data fac matricea de adiacenta pe ea
         nr_noduri = int(data[1])
@@ -28,3 +32,7 @@ for i in range(10):
             index = index+int(nr_vecini[i])
 
         print(*L, sep='\n')
+        for l in L:
+            for el in l:
+                file.write(str(el) + ' ')
+            file.write("\n")
