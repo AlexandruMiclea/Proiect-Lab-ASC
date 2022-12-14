@@ -32,12 +32,14 @@ for i in range(10): #creez 10 teste
             file.write("\n")
         for j in range(nr_noduri):
             vec_posibili = set([int(x) for x in range(nr_noduri)])
-            print(*vec_posibili)
+            #print(*vec_posibili)
             vec_posibili.remove(j)
-            
-
             lvec = list(vec_posibili)
-            lvec = lvec[:int(l[j])].copy()
+            random.shuffle(lvec)
+            lvec = lvec[:int(l[j])]
+            print(lvec)
+
+            #lvec = list(vec_posibili)
             
             for el in lvec:
                 file.write(str(el))
