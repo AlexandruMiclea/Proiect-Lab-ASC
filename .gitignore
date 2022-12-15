@@ -1,2 +1,9 @@
 proiect-lab-asc.code-workspace
 /inputs
+/cod_c
+/.vscode
+*.o
+.gdb_history
+*peda*
+/brute_matrix
+/asm_matrix

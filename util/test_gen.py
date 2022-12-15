@@ -15,9 +15,9 @@ input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/inputs/"
 # 3 // nodului 1
 # 3 // legatura nodului 2
 
-for i in range(10): #creez 10 teste
+for i in range(100): #creez 10 teste
     random.seed(a=None, version=2)
-    nr_noduri = random.randint(2,10) #intre 2 si 10 noduri
+    nr_noduri = random.randint(2,100) #intre 2 si 10 noduri
 
     with open(input_location + f"test{i+1}.txt", "w") as file:
         l = []

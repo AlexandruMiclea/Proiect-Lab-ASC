@@ -1,7 +1,7 @@
-input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/first_inputs/"
-output_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/matrix_first_inputs/"
+input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/inputs/"
+output_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/brute_matrix/"
 
-for i in range(10):
+for i in range(100):
     data = []
 
     filer = open(input_location + f"test{i+1}.txt", "r")
