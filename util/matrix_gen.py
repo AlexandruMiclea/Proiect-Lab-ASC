@@ -1,7 +1,7 @@
 input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/inputs/"
-output_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/brute_matrix/"
+output_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/matrix_input_py/"
 
-for i in range(100):
+for i in range(1000):
     data = []
 
     filer = open(input_location + f"test{i+1}.txt", "r")
@@ -31,7 +31,7 @@ for i in range(100):
                 L[i][int(vecin)] = 1
             index = index+int(nr_vecini[i])
 
-        print(*L, sep='\n')
+        #print(*L, sep='\n')
         for l in L:
             for el in l:
                 file.write(str(el) + ' ')
