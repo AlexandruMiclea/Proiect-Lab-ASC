@@ -1,2000 +1,1131 @@
 Verdict testul 1: ACCEPTED
-C1 asm, C1 py
 Verdict testul 2: ACCEPTED
-C2 asm, C2 py
 Verdict testul 3: ACCEPTED
-C1 asm, C1 py
 Verdict testul 4: ACCEPTED
-C1 asm, C1 py
 Verdict testul 5: ACCEPTED
-C2 asm, C2 py
 Verdict testul 6: ACCEPTED
-C2 asm, C2 py
-Verdict testul 7: ACCEPTED
-C1 asm, C1 py
+Verdict testul 7: WRONG ANSWER
+asm: 1088906693, py: 39743612357 C3 asm, C3 py
 Verdict testul 8: ACCEPTED
-C1 asm, C1 py
 Verdict testul 9: ACCEPTED
-C2 asm, C2 py
 Verdict testul 10: ACCEPTED
-C2 asm, C2 py
 Verdict testul 11: ACCEPTED
-C2 asm, C2 py
-Verdict testul 12: ACCEPTED
-C2 asm, C2 py
+Verdict testul 12: WRONG ANSWER
+asm: -1734125596, py: 12268987439076 C3 asm, C3 py
 Verdict testul 13: ACCEPTED
-C2 asm, C2 py
 Verdict testul 14: ACCEPTED
-C2 asm, C2 py
 Verdict testul 15: ACCEPTED
-C1 asm, C1 py
 Verdict testul 16: ACCEPTED
-C2 asm, C2 py
 Verdict testul 17: ACCEPTED
-C1 asm, C1 py
 Verdict testul 18: ACCEPTED
-C1 asm, C1 py
 Verdict testul 19: ACCEPTED
-C2 asm, C2 py
 Verdict testul 20: ACCEPTED
-C1 asm, C1 py
 Verdict testul 21: ACCEPTED
-C1 asm, C1 py
 Verdict testul 22: ACCEPTED
-C1 asm, C1 py
 Verdict testul 23: ACCEPTED
-C1 asm, C1 py
 Verdict testul 24: ACCEPTED
-C2 asm, C2 py
 Verdict testul 25: ACCEPTED
-C1 asm, C1 py
 Verdict testul 26: ACCEPTED
-C2 asm, C2 py
 Verdict testul 27: ACCEPTED
-C1 asm, C1 py
-Verdict testul 28: ACCEPTED
-C2 asm, C2 py
+Verdict testul 28: WRONG ANSWER
+asm: 1539782408, py: 53079389960 C3 asm, C3 py
 Verdict testul 29: ACCEPTED
-C2 asm, C2 py
 Verdict testul 30: ACCEPTED
-C2 asm, C2 py
 Verdict testul 31: ACCEPTED
-C1 asm, C1 py
-Verdict testul 32: ACCEPTED
-C1 asm, C1 py
+Verdict testul 32: WRONG ANSWER
+asm: 887324136, py: 26657127912 C3 asm, C3 py
 Verdict testul 33: ACCEPTED
-C1 asm, C1 py
 Verdict testul 34: ACCEPTED
-C2 asm, C2 py
 Verdict testul 35: ACCEPTED
-C2 asm, C2 py
 Verdict testul 36: ACCEPTED
-C2 asm, C2 py
 Verdict testul 37: ACCEPTED
-C2 asm, C2 py
 Verdict testul 38: ACCEPTED
-C2 asm, C2 py
-Verdict testul 39: ACCEPTED
-C1 asm, C1 py
+Verdict testul 39: WRONG ANSWER
+asm: -834164428, py: 20640672052 C3 asm, C3 py
 Verdict testul 40: ACCEPTED
-C2 asm, C2 py
 Verdict testul 41: ACCEPTED
-C2 asm, C2 py
 Verdict testul 42: ACCEPTED
-C1 asm, C1 py
 Verdict testul 43: ACCEPTED
-C1 asm, C1 py
 Verdict testul 44: ACCEPTED
-C2 asm, C2 py
 Verdict testul 45: ACCEPTED
-C2 asm, C2 py
 Verdict testul 46: ACCEPTED
-C2 asm, C2 py
-Verdict testul 47: ACCEPTED
-C1 asm, C1 py
+Verdict testul 47: WRONG ANSWER
+asm: -1164285315, py: 16015583869 C3 asm, C3 py
 Verdict testul 48: ACCEPTED
-C2 asm, C2 py
 Verdict testul 49: ACCEPTED
-C2 asm, C2 py
 Verdict testul 50: ACCEPTED
-C2 asm, C2 py
 Verdict testul 51: ACCEPTED
-C2 asm, C2 py
 Verdict testul 52: ACCEPTED
-C2 asm, C2 py
 Verdict testul 53: ACCEPTED
-C2 asm, C2 py
 Verdict testul 54: ACCEPTED
-C2 asm, C2 py
 Verdict testul 55: ACCEPTED
-C2 asm, C2 py
 Verdict testul 56: ACCEPTED
-C1 asm, C1 py
-Verdict testul 57: ACCEPTED
-C1 asm, C1 py
+Verdict testul 57: WRONG ANSWER
+asm: 940974641, py: 13825876529 C3 asm, C3 py
 Verdict testul 58: ACCEPTED
-C1 asm, C1 py
 Verdict testul 59: ACCEPTED
-C1 asm, C1 py
 Verdict testul 60: ACCEPTED
-C1 asm, C1 py
 Verdict testul 61: ACCEPTED
-C1 asm, C1 py
 Verdict testul 62: ACCEPTED
-C2 asm, C2 py
 Verdict testul 63: ACCEPTED
-C1 asm, C1 py
 Verdict testul 64: ACCEPTED
-C2 asm, C2 py
 Verdict testul 65: ACCEPTED
-C1 asm, C1 py
 Verdict testul 66: ACCEPTED
-C1 asm, C1 py
-Verdict testul 67: ACCEPTED
-C2 asm, C2 py
+Verdict testul 67: WRONG ANSWER
+asm: -1468434566, py: 2826532730 C2 asm, C2 py
 Verdict testul 68: ACCEPTED
-C1 asm, C1 py
 Verdict testul 69: ACCEPTED
-C1 asm, C1 py
 Verdict testul 70: ACCEPTED
-C1 asm, C1 py
 Verdict testul 71: ACCEPTED
-C1 asm, C1 py
 Verdict testul 72: ACCEPTED
-C1 asm, C1 py
 Verdict testul 73: ACCEPTED
-C2 asm, C2 py
 Verdict testul 74: ACCEPTED
-C1 asm, C1 py
 Verdict testul 75: ACCEPTED
-C1 asm, C1 py
 Verdict testul 76: ACCEPTED
-C1 asm, C1 py
 Verdict testul 77: ACCEPTED
-C1 asm, C1 py
 Verdict testul 78: ACCEPTED
-C1 asm, C1 py
 Verdict testul 79: ACCEPTED
-C1 asm, C1 py
 Verdict testul 80: ACCEPTED
-C1 asm, C1 py
 Verdict testul 81: ACCEPTED
-C2 asm, C2 py
 Verdict testul 82: ACCEPTED
-C2 asm, C2 py
 Verdict testul 83: ACCEPTED
-C2 asm, C2 py
 Verdict testul 84: ACCEPTED
-C2 asm, C2 py
 Verdict testul 85: ACCEPTED
-C1 asm, C1 py
 Verdict testul 86: ACCEPTED
-C2 asm, C2 py
 Verdict testul 87: ACCEPTED
-C2 asm, C2 py
 Verdict testul 88: ACCEPTED
-C1 asm, C1 py
 Verdict testul 89: ACCEPTED
-C2 asm, C2 py
 Verdict testul 90: ACCEPTED
-C2 asm, C2 py
 Verdict testul 91: ACCEPTED
-C2 asm, C2 py
 Verdict testul 92: ACCEPTED
-C2 asm, C2 py
 Verdict testul 93: ACCEPTED
-C1 asm, C1 py
-Verdict testul 94: ACCEPTED
-C2 asm, C2 py
+Verdict testul 94: WRONG ANSWER
+asm: -1159398967, py: 415452428745 C3 asm, C3 py
 Verdict testul 95: ACCEPTED
-C1 asm, C1 py
 Verdict testul 96: ACCEPTED
-C1 asm, C1 py
-Verdict testul 97: ACCEPTED
-C2 asm, C2 py
-Verdict testul 98: ACCEPTED
-C2 asm, C2 py
+Verdict testul 97: WRONG ANSWER
+asm: 966081074, py: 967734407281202 C2 asm, C2 py
+Verdict testul 98: WRONG ANSWER
+asm: 174527203, py: 43124200163 C2 asm, C2 py
 Verdict testul 99: ACCEPTED
-C1 asm, C1 py
 Verdict testul 100: ACCEPTED
-C2 asm, C2 py
 Verdict testul 101: ACCEPTED
-C2 asm, C2 py
 Verdict testul 102: ACCEPTED
-C2 asm, C2 py
-Verdict testul 103: ACCEPTED
-C1 asm, C1 py
+Verdict testul 103: WRONG ANSWER
+asm: 23079544, py: 4318046840 C2 asm, C2 py
 Verdict testul 104: ACCEPTED
-C1 asm, C1 py
 Verdict testul 105: ACCEPTED
-C1 asm, C1 py
 Verdict testul 106: ACCEPTED
-C2 asm, C2 py
 Verdict testul 107: ACCEPTED
-C1 asm, C1 py
 Verdict testul 108: ACCEPTED
-C2 asm, C2 py
-Verdict testul 109: ACCEPTED
-C1 asm, C1 py
+Verdict testul 109: WRONG ANSWER
+asm: -118423721, py: 661306539863 C2 asm, C2 py
 Verdict testul 110: ACCEPTED
-C1 asm, C1 py
 Verdict testul 111: ACCEPTED
-C2 asm, C2 py
 Verdict testul 112: ACCEPTED
-C1 asm, C1 py
 Verdict testul 113: ACCEPTED
-C2 asm, C2 py
 Verdict testul 114: ACCEPTED
-C1 asm, C1 py
 Verdict testul 115: ACCEPTED
-C1 asm, C1 py
 Verdict testul 116: ACCEPTED
-C1 asm, C1 py
-Verdict testul 117: ACCEPTED
-C1 asm, C1 py
+Verdict testul 117: WRONG ANSWER
+asm: -2024239592, py: 109644910104 C3 asm, C3 py
 Verdict testul 118: ACCEPTED
-C2 asm, C2 py
 Verdict testul 119: ACCEPTED
-C2 asm, C2 py
 Verdict testul 120: ACCEPTED
-C2 asm, C2 py
 Verdict testul 121: ACCEPTED
-C1 asm, C1 py
 Verdict testul 122: ACCEPTED
-C2 asm, C2 py
 Verdict testul 123: ACCEPTED
-C1 asm, C1 py
 Verdict testul 124: ACCEPTED
-C1 asm, C1 py
 Verdict testul 125: ACCEPTED
-C1 asm, C1 py
 Verdict testul 126: ACCEPTED
-C2 asm, C2 py
-Verdict testul 127: ACCEPTED
-C1 asm, C1 py
+Verdict testul 127: WRONG ANSWER
+asm: 868700832, py: 203831426634400 C2 asm, C2 py
 Verdict testul 128: ACCEPTED
-C1 asm, C1 py
 Verdict testul 129: ACCEPTED
-C1 asm, C1 py
 Verdict testul 130: ACCEPTED
-C2 asm, C2 py
 Verdict testul 131: ACCEPTED
-C2 asm, C2 py
-Verdict testul 132: ACCEPTED
-C2 asm, C2 py
+Verdict testul 132: WRONG ANSWER
+asm: -1854116002, py: 21069255438174 C2 asm, C2 py
 Verdict testul 133: ACCEPTED
-C2 asm, C2 py
 Verdict testul 134: ACCEPTED
-C2 asm, C2 py
 Verdict testul 135: ACCEPTED
-C1 asm, C1 py
 Verdict testul 136: ACCEPTED
-C2 asm, C2 py
 Verdict testul 137: ACCEPTED
-C1 asm, C1 py
 Verdict testul 138: ACCEPTED
-C1 asm, C1 py
 Verdict testul 139: ACCEPTED
-C2 asm, C2 py
-Verdict testul 140: ACCEPTED
-C1 asm, C1 py
-Verdict testul 141: ACCEPTED
-C1 asm, C1 py
+Verdict testul 140: WRONG ANSWER
+asm: 488116176, py: 9078050768 C3 asm, C3 py
+Verdict testul 141: WRONG ANSWER
+asm: -1755178566, py: 35882696579514 C2 asm, C2 py
 Verdict testul 142: ACCEPTED
-C2 asm, C2 py
 Verdict testul 143: ACCEPTED
-C2 asm, C2 py
 Verdict testul 144: ACCEPTED
-C2 asm, C2 py
 Verdict testul 145: ACCEPTED
-C1 asm, C1 py
 Verdict testul 146: ACCEPTED
-C2 asm, C2 py
 Verdict testul 147: ACCEPTED
-C1 asm, C1 py
 Verdict testul 148: ACCEPTED
-C2 asm, C2 py
 Verdict testul 149: ACCEPTED
-C2 asm, C2 py
 Verdict testul 150: ACCEPTED
-C2 asm, C2 py
 Verdict testul 151: ACCEPTED
-C2 asm, C2 py
 Verdict testul 152: ACCEPTED
-C1 asm, C1 py
 Verdict testul 153: ACCEPTED
-C2 asm, C2 py
 Verdict testul 154: ACCEPTED
-C1 asm, C1 py
 Verdict testul 155: ACCEPTED
-C2 asm, C2 py
 Verdict testul 156: ACCEPTED
-C2 asm, C2 py
 Verdict testul 157: ACCEPTED
-C1 asm, C1 py
 Verdict testul 158: ACCEPTED
-C2 asm, C2 py
 Verdict testul 159: ACCEPTED
-C2 asm, C2 py
 Verdict testul 160: ACCEPTED
-C1 asm, C1 py
 Verdict testul 161: ACCEPTED
-C1 asm, C1 py
 Verdict testul 162: ACCEPTED
-C2 asm, C2 py
-Verdict testul 163: ACCEPTED
-C1 asm, C1 py
+Verdict testul 163: WRONG ANSWER
+asm: 949651819, py: 28339143870827 C3 asm, C3 py
 Verdict testul 164: ACCEPTED
-C1 asm, C1 py
 Verdict testul 165: ACCEPTED
-C1 asm, C1 py
 Verdict testul 166: ACCEPTED
-C2 asm, C2 py
 Verdict testul 167: ACCEPTED
-C2 asm, C2 py
-Verdict testul 168: ACCEPTED
-C1 asm, C1 py
+Verdict testul 168: WRONG ANSWER
+asm: -1370936665, py: 48394320554663 C2 asm, C2 py
 Verdict testul 169: ACCEPTED
-C2 asm, C2 py
 Verdict testul 170: ACCEPTED
-C1 asm, C1 py
 Verdict testul 171: ACCEPTED
-C2 asm, C2 py
 Verdict testul 172: ACCEPTED
-C2 asm, C2 py
-Verdict testul 173: ACCEPTED
-C2 asm, C2 py
+Verdict testul 173: WRONG ANSWER
+asm: -683505970, py: 12201395918 C3 asm, C3 py
 Verdict testul 174: ACCEPTED
-C2 asm, C2 py
 Verdict testul 175: ACCEPTED
-C2 asm, C2 py
 Verdict testul 176: ACCEPTED
-C2 asm, C2 py
 Verdict testul 177: ACCEPTED
-C2 asm, C2 py
-Verdict testul 178: ACCEPTED
-C1 asm, C1 py
+Verdict testul 178: WRONG ANSWER
+asm: 341225463, py: 1696853307383 C2 asm, C2 py
 Verdict testul 179: ACCEPTED
-C1 asm, C1 py
 Verdict testul 180: ACCEPTED
-C2 asm, C2 py
 Verdict testul 181: ACCEPTED
-C1 asm, C1 py
 Verdict testul 182: ACCEPTED
-C1 asm, C1 py
-Verdict testul 183: ACCEPTED
-C1 asm, C1 py
+Verdict testul 183: WRONG ANSWER
+asm: 658415920, py: 43608088880 C2 asm, C2 py
 Verdict testul 184: ACCEPTED
-C2 asm, C2 py
 Verdict testul 185: ACCEPTED
-C2 asm, C2 py
-Verdict testul 186: ACCEPTED
-C2 asm, C2 py
+Verdict testul 186: WRONG ANSWER
+asm: -2114791313, py: 45129848943 C2 asm, C2 py
 Verdict testul 187: ACCEPTED
-C2 asm, C2 py
 Verdict testul 188: ACCEPTED
-C2 asm, C2 py
-Verdict testul 189: ACCEPTED
-C2 asm, C2 py
+Verdict testul 189: WRONG ANSWER
+asm: -260149183, py: 16919720001 C3 asm, C3 py
 Verdict testul 190: ACCEPTED
-C2 asm, C2 py
 Verdict testul 191: ACCEPTED
-C1 asm, C1 py
 Verdict testul 192: ACCEPTED
-C2 asm, C2 py
 Verdict testul 193: ACCEPTED
-C2 asm, C2 py
-Verdict testul 194: ACCEPTED
-C1 asm, C1 py
+Verdict testul 194: WRONG ANSWER
+asm: -737744620, py: 5449575754004 C2 asm, C2 py
 Verdict testul 195: ACCEPTED
-C2 asm, C2 py
 Verdict testul 196: ACCEPTED
-C1 asm, C1 py
 Verdict testul 197: ACCEPTED
-C2 asm, C2 py
 Verdict testul 198: ACCEPTED
-C2 asm, C2 py
-Verdict testul 199: ACCEPTED
-C1 asm, C1 py
+Verdict testul 199: WRONG ANSWER
+asm: -1359173710, py: 7230760882 C2 asm, C2 py
 Verdict testul 200: ACCEPTED
-C1 asm, C1 py
-Verdict testul 201: ACCEPTED
-C2 asm, C2 py
-Verdict testul 202: ACCEPTED
-C1 asm, C1 py
+Verdict testul 201: WRONG ANSWER
+asm: -2094714349, py: 2200252947 C2 asm, C2 py
+Verdict testul 202: WRONG ANSWER
+asm: -1374937980, py: 7480458091652 C2 asm, C2 py
 Verdict testul 203: ACCEPTED
-C2 asm, C2 py
 Verdict testul 204: ACCEPTED
-C2 asm, C2 py
 Verdict testul 205: ACCEPTED
-C2 asm, C2 py
 Verdict testul 206: ACCEPTED
-C2 asm, C2 py
-Verdict testul 207: ACCEPTED
-C1 asm, C1 py
+Verdict testul 207: WRONG ANSWER
+asm: -1787905519, py: 2507061777 C2 asm, C2 py
 Verdict testul 208: ACCEPTED
-C1 asm, C1 py
 Verdict testul 209: ACCEPTED
-C1 asm, C1 py
 Verdict testul 210: ACCEPTED
-C2 asm, C2 py
 Verdict testul 211: ACCEPTED
-C1 asm, C1 py
 Verdict testul 212: ACCEPTED
-C1 asm, C1 py
-Verdict testul 213: ACCEPTED
-C2 asm, C2 py
+Verdict testul 213: WRONG ANSWER
+asm: -342071523, py: 192931456797 C2 asm, C2 py
 Verdict testul 214: ACCEPTED
-C1 asm, C1 py
-Verdict testul 215: ACCEPTED
-C1 asm, C1 py
+Verdict testul 215: WRONG ANSWER
+asm: -114288453, py: 266173683899 C2 asm, C2 py
 Verdict testul 216: ACCEPTED
-C1 asm, C1 py
 Verdict testul 217: ACCEPTED
-C1 asm, C1 py
 Verdict testul 218: ACCEPTED
-C1 asm, C1 py
 Verdict testul 219: ACCEPTED
-C2 asm, C2 py
 Verdict testul 220: ACCEPTED
-C2 asm, C2 py
 Verdict testul 221: ACCEPTED
-C2 asm, C2 py
 Verdict testul 222: ACCEPTED
-C1 asm, C1 py
 Verdict testul 223: ACCEPTED
-C1 asm, C1 py
 Verdict testul 224: ACCEPTED
-C1 asm, C1 py
 Verdict testul 225: ACCEPTED
-C2 asm, C2 py
 Verdict testul 226: ACCEPTED
-C2 asm, C2 py
 Verdict testul 227: ACCEPTED
-C2 asm, C2 py
 Verdict testul 228: ACCEPTED
-C1 asm, C1 py
-Verdict testul 229: ACCEPTED
-C2 asm, C2 py
+Verdict testul 229: WRONG ANSWER
+asm: -197969530, py: 330514512262 C2 asm, C2 py
 Verdict testul 230: ACCEPTED
-C1 asm, C1 py
 Verdict testul 231: ACCEPTED
-C2 asm, C2 py
-Verdict testul 232: ACCEPTED
-C1 asm, C1 py
+Verdict testul 232: WRONG ANSWER
+asm: -1826413212, py: 2468554084 C2 asm, C2 py
 Verdict testul 233: ACCEPTED
-C1 asm, C1 py
 Verdict testul 234: ACCEPTED
-C1 asm, C1 py
 Verdict testul 235: ACCEPTED
-C1 asm, C1 py
 Verdict testul 236: ACCEPTED
-C2 asm, C2 py
-Verdict testul 237: ACCEPTED
-C2 asm, C2 py
+Verdict testul 237: WRONG ANSWER
+asm: 1923067094, py: 9287642361046 C3 asm, C3 py
 Verdict testul 238: ACCEPTED
-C2 asm, C2 py
 Verdict testul 239: ACCEPTED
-C2 asm, C2 py
 Verdict testul 240: ACCEPTED
-C2 asm, C2 py
 Verdict testul 241: ACCEPTED
-C2 asm, C2 py
-Verdict testul 242: ACCEPTED
-C1 asm, C1 py
+Verdict testul 242: WRONG ANSWER
+asm: 331341961, py: 124885393545 C2 asm, C2 py
 Verdict testul 243: ACCEPTED
-C1 asm, C1 py
 Verdict testul 244: ACCEPTED
-C2 asm, C2 py
 Verdict testul 245: ACCEPTED
-C2 asm, C2 py
 Verdict testul 246: ACCEPTED
-C2 asm, C2 py
 Verdict testul 247: ACCEPTED
-C1 asm, C1 py
-Verdict testul 248: ACCEPTED
-C2 asm, C2 py
+Verdict testul 248: WRONG ANSWER
+asm: 2137761505, py: 697922463457 C2 asm, C2 py
 Verdict testul 249: ACCEPTED
-C2 asm, C2 py
 Verdict testul 250: ACCEPTED
-C2 asm, C2 py
 Verdict testul 251: ACCEPTED
-C2 asm, C2 py
 Verdict testul 252: ACCEPTED
-C2 asm, C2 py
 Verdict testul 253: ACCEPTED
-C2 asm, C2 py
 Verdict testul 254: ACCEPTED
-C2 asm, C2 py
 Verdict testul 255: ACCEPTED
-C1 asm, C1 py
 Verdict testul 256: ACCEPTED
-C1 asm, C1 py
-Verdict testul 257: ACCEPTED
-C2 asm, C2 py
+Verdict testul 257: WRONG ANSWER
+asm: -337798678, py: 3957168618 C3 asm, C3 py
 Verdict testul 258: ACCEPTED
-C2 asm, C2 py
 Verdict testul 259: ACCEPTED
-C2 asm, C2 py
 Verdict testul 260: ACCEPTED
-C1 asm, C1 py
 Verdict testul 261: ACCEPTED
-C2 asm, C2 py
 Verdict testul 262: ACCEPTED
-C1 asm, C1 py
 Verdict testul 263: ACCEPTED
-C2 asm, C2 py
 Verdict testul 264: ACCEPTED
-C1 asm, C1 py
 Verdict testul 265: ACCEPTED
-C2 asm, C2 py
 Verdict testul 266: ACCEPTED
-C2 asm, C2 py
 Verdict testul 267: ACCEPTED
-C1 asm, C1 py
 Verdict testul 268: ACCEPTED
-C1 asm, C1 py
 Verdict testul 269: ACCEPTED
-C1 asm, C1 py
 Verdict testul 270: ACCEPTED
-C1 asm, C1 py
-Verdict testul 271: ACCEPTED
-C2 asm, C2 py
+Verdict testul 271: WRONG ANSWER
+asm: 1685030494, py: 14569932382 C2 asm, C2 py
 Verdict testul 272: ACCEPTED
-C1 asm, C1 py
 Verdict testul 273: ACCEPTED
-C1 asm, C1 py
 Verdict testul 274: ACCEPTED
-C2 asm, C2 py
 Verdict testul 275: ACCEPTED
-C1 asm, C1 py
 Verdict testul 276: ACCEPTED
-C2 asm, C2 py
 Verdict testul 277: ACCEPTED
-C1 asm, C1 py
 Verdict testul 278: ACCEPTED
-C2 asm, C2 py
-Verdict testul 279: ACCEPTED
-C2 asm, C2 py
+Verdict testul 279: WRONG ANSWER
+asm: 1323096602, py: 247099381570074 C3 asm, C3 py
 Verdict testul 280: ACCEPTED
-C1 asm, C1 py
-Verdict testul 281: ACCEPTED
-C1 asm, C1 py
+Verdict testul 281: WRONG ANSWER
+asm: 758403208, py: 30823174280 C3 asm, C3 py
 Verdict testul 282: ACCEPTED
-C1 asm, C1 py
 Verdict testul 283: ACCEPTED
-C2 asm, C2 py
 Verdict testul 284: ACCEPTED
-C1 asm, C1 py
 Verdict testul 285: ACCEPTED
-C1 asm, C1 py
 Verdict testul 286: ACCEPTED
-C2 asm, C2 py
 Verdict testul 287: ACCEPTED
-C1 asm, C1 py
 Verdict testul 288: ACCEPTED
-C2 asm, C2 py
 Verdict testul 289: ACCEPTED
-C2 asm, C2 py
-Verdict testul 290: ACCEPTED
-C1 asm, C1 py
+Verdict testul 290: WRONG ANSWER
+asm: -307800524, py: 8282134068 C2 asm, C2 py
 Verdict testul 291: ACCEPTED
-C1 asm, C1 py
 Verdict testul 292: ACCEPTED
-C1 asm, C1 py
-Verdict testul 293: ACCEPTED
-C1 asm, C1 py
+Verdict testul 293: WRONG ANSWER
+asm: 1056826953, py: 9646761545 C3 asm, C3 py
 Verdict testul 294: ACCEPTED
-C2 asm, C2 py
 Verdict testul 295: ACCEPTED
-C1 asm, C1 py
 Verdict testul 296: ACCEPTED
-C1 asm, C1 py
 Verdict testul 297: ACCEPTED
-C2 asm, C2 py
 Verdict testul 298: ACCEPTED
-C2 asm, C2 py
 Verdict testul 299: ACCEPTED
-C2 asm, C2 py
 Verdict testul 300: ACCEPTED
-C2 asm, C2 py
-Verdict testul 301: ACCEPTED
-C1 asm, C1 py
+Verdict testul 301: WRONG ANSWER
+asm: -1930494232, py: 2364473064 C2 asm, C2 py
 Verdict testul 302: ACCEPTED
-C1 asm, C1 py
 Verdict testul 303: ACCEPTED
-C1 asm, C1 py
-Verdict testul 304: ACCEPTED
-C1 asm, C1 py
+Verdict testul 304: WRONG ANSWER
+asm: -467845959, py: 8095545507001 C3 asm, C3 py
 Verdict testul 305: ACCEPTED
-C1 asm, C1 py
-Verdict testul 306: ACCEPTED
-C1 asm, C1 py
+Verdict testul 306: WRONG ANSWER
+asm: -1805040894, py: 9726295884546 C3 asm, C3 py
 Verdict testul 307: ACCEPTED
-C1 asm, C1 py
 Verdict testul 308: ACCEPTED
-C2 asm, C2 py
 Verdict testul 309: ACCEPTED
-C1 asm, C1 py
 Verdict testul 310: ACCEPTED
-C1 asm, C1 py
-Verdict testul 311: ACCEPTED
-C2 asm, C2 py
+Verdict testul 311: WRONG ANSWER
+asm: -1706001609, py: 15473867575 C2 asm, C2 py
 Verdict testul 312: ACCEPTED
-C2 asm, C2 py
 Verdict testul 313: ACCEPTED
-C1 asm, C1 py
 Verdict testul 314: ACCEPTED
-C2 asm, C2 py
 Verdict testul 315: ACCEPTED
-C1 asm, C1 py
 Verdict testul 316: ACCEPTED
-C1 asm, C1 py
 Verdict testul 317: ACCEPTED
-C1 asm, C1 py
 Verdict testul 318: ACCEPTED
-C2 asm, C2 py
 Verdict testul 319: ACCEPTED
-C2 asm, C2 py
 Verdict testul 320: ACCEPTED
-C2 asm, C2 py
-Verdict testul 321: ACCEPTED
-C1 asm, C1 py
+Verdict testul 321: WRONG ANSWER
+asm: 201002620, py: 4495969916 C3 asm, C3 py
 Verdict testul 322: ACCEPTED
-C1 asm, C1 py
 Verdict testul 323: ACCEPTED
-C1 asm, C1 py
 Verdict testul 324: ACCEPTED
-C2 asm, C2 py
 Verdict testul 325: ACCEPTED
-C1 asm, C1 py
 Verdict testul 326: ACCEPTED
-C1 asm, C1 py
 Verdict testul 327: ACCEPTED
-C1 asm, C1 py
-Verdict testul 328: ACCEPTED
-C2 asm, C2 py
+Verdict testul 328: WRONG ANSWER
+asm: -576627750, py: 8013306842 C3 asm, C3 py
 Verdict testul 329: ACCEPTED
-C2 asm, C2 py
 Verdict testul 330: ACCEPTED
-C1 asm, C1 py
 Verdict testul 331: ACCEPTED
-C2 asm, C2 py
 Verdict testul 332: ACCEPTED
-C2 asm, C2 py
 Verdict testul 333: ACCEPTED
-C1 asm, C1 py
-Verdict testul 334: ACCEPTED
-C2 asm, C2 py
+Verdict testul 334: WRONG ANSWER
+asm: -1823052913, py: 9391270423439 C3 asm, C3 py
 Verdict testul 335: ACCEPTED
-C1 asm, C1 py
 Verdict testul 336: ACCEPTED
-C1 asm, C1 py
 Verdict testul 337: ACCEPTED
-C1 asm, C1 py
-Verdict testul 338: ACCEPTED
-C1 asm, C1 py
+Verdict testul 338: WRONG ANSWER
+asm: -356696076, py: 55477878772 C3 asm, C3 py
 Verdict testul 339: ACCEPTED
-C2 asm, C2 py
 Verdict testul 340: ACCEPTED
-C1 asm, C1 py
 Verdict testul 341: ACCEPTED
-C1 asm, C1 py
 Verdict testul 342: ACCEPTED
-C2 asm, C2 py
 Verdict testul 343: ACCEPTED
-C1 asm, C1 py
 Verdict testul 344: ACCEPTED
-C2 asm, C2 py
 Verdict testul 345: ACCEPTED
-C2 asm, C2 py
 Verdict testul 346: ACCEPTED
-C1 asm, C1 py
 Verdict testul 347: ACCEPTED
-C2 asm, C2 py
-Verdict testul 348: ACCEPTED
-C2 asm, C2 py
+Verdict testul 348: WRONG ANSWER
+asm: -53596609, py: 4241370687 C2 asm, C2 py
 Verdict testul 349: ACCEPTED
-C2 asm, C2 py
 Verdict testul 350: ACCEPTED
-C2 asm, C2 py
 Verdict testul 351: ACCEPTED
-C1 asm, C1 py
 Verdict testul 352: ACCEPTED
-C1 asm, C1 py
 Verdict testul 353: ACCEPTED
-C1 asm, C1 py
 Verdict testul 354: ACCEPTED
-C1 asm, C1 py
 Verdict testul 355: ACCEPTED
-C2 asm, C2 py
 Verdict testul 356: ACCEPTED
-C2 asm, C2 py
 Verdict testul 357: ACCEPTED
-C1 asm, C1 py
 Verdict testul 358: ACCEPTED
-C1 asm, C1 py
 Verdict testul 359: ACCEPTED
-C1 asm, C1 py
 Verdict testul 360: ACCEPTED
-C2 asm, C2 py
 Verdict testul 361: ACCEPTED
-C1 asm, C1 py
 Verdict testul 362: ACCEPTED
-C2 asm, C2 py
 Verdict testul 363: ACCEPTED
-C1 asm, C1 py
 Verdict testul 364: ACCEPTED
-C2 asm, C2 py
 Verdict testul 365: ACCEPTED
-C2 asm, C2 py
 Verdict testul 366: ACCEPTED
-C1 asm, C1 py
 Verdict testul 367: ACCEPTED
-C2 asm, C2 py
 Verdict testul 368: ACCEPTED
-C1 asm, C1 py
 Verdict testul 369: ACCEPTED
-C1 asm, C1 py
 Verdict testul 370: ACCEPTED
-C2 asm, C2 py
-Verdict testul 371: ACCEPTED
-C1 asm, C1 py
+Verdict testul 371: WRONG ANSWER
+asm: -222748157, py: 12662153731 C2 asm, C2 py
 Verdict testul 372: ACCEPTED
-C2 asm, C2 py
 Verdict testul 373: ACCEPTED
-C1 asm, C1 py
 Verdict testul 374: ACCEPTED
-C2 asm, C2 py
 Verdict testul 375: ACCEPTED
-C1 asm, C1 py
 Verdict testul 376: ACCEPTED
-C1 asm, C1 py
 Verdict testul 377: ACCEPTED
-C2 asm, C2 py
 Verdict testul 378: ACCEPTED
-C1 asm, C1 py
 Verdict testul 379: ACCEPTED
-C1 asm, C1 py
 Verdict testul 380: ACCEPTED
-C1 asm, C1 py
 Verdict testul 381: ACCEPTED
-C1 asm, C1 py
 Verdict testul 382: ACCEPTED
-C1 asm, C1 py
 Verdict testul 383: ACCEPTED
-C1 asm, C1 py
-Verdict testul 384: ACCEPTED
-C2 asm, C2 py
+Verdict testul 384: WRONG ANSWER
+asm: 543648401, py: 4838615697 C2 asm, C2 py
 Verdict testul 385: ACCEPTED
-C2 asm, C2 py
 Verdict testul 386: ACCEPTED
-C2 asm, C2 py
 Verdict testul 387: ACCEPTED
-C1 asm, C1 py
 Verdict testul 388: ACCEPTED
-C2 asm, C2 py
 Verdict testul 389: ACCEPTED
-C1 asm, C1 py
 Verdict testul 390: ACCEPTED
-C1 asm, C1 py
 Verdict testul 391: ACCEPTED
-C1 asm, C1 py
 Verdict testul 392: ACCEPTED
-C2 asm, C2 py
 Verdict testul 393: ACCEPTED
-C1 asm, C1 py
 Verdict testul 394: ACCEPTED
-C1 asm, C1 py
 Verdict testul 395: ACCEPTED
-C1 asm, C1 py
 Verdict testul 396: ACCEPTED
-C1 asm, C1 py
 Verdict testul 397: ACCEPTED
-C2 asm, C2 py
 Verdict testul 398: ACCEPTED
-C2 asm, C2 py
 Verdict testul 399: ACCEPTED
-C2 asm, C2 py
 Verdict testul 400: ACCEPTED
-C2 asm, C2 py
 Verdict testul 401: ACCEPTED
-C1 asm, C1 py
 Verdict testul 402: ACCEPTED
-C2 asm, C2 py
 Verdict testul 403: ACCEPTED
-C2 asm, C2 py
 Verdict testul 404: ACCEPTED
-C2 asm, C2 py
 Verdict testul 405: ACCEPTED
-C2 asm, C2 py
 Verdict testul 406: ACCEPTED
-C1 asm, C1 py
 Verdict testul 407: ACCEPTED
-C1 asm, C1 py
 Verdict testul 408: ACCEPTED
-C2 asm, C2 py
 Verdict testul 409: ACCEPTED
-C2 asm, C2 py
 Verdict testul 410: ACCEPTED
-C1 asm, C1 py
 Verdict testul 411: ACCEPTED
-C2 asm, C2 py
-Verdict testul 412: ACCEPTED
-C1 asm, C1 py
+Verdict testul 412: WRONG ANSWER
+asm: 449196514, py: 25134597812706 C2 asm, C2 py
 Verdict testul 413: ACCEPTED
-C1 asm, C1 py
 Verdict testul 414: ACCEPTED
-C1 asm, C1 py
-Verdict testul 415: ACCEPTED
-C1 asm, C1 py
+Verdict testul 415: WRONG ANSWER
+asm: 571631022, py: 541737510318 C2 asm, C2 py
 Verdict testul 416: ACCEPTED
-C1 asm, C1 py
 Verdict testul 417: ACCEPTED
-C2 asm, C2 py
 Verdict testul 418: ACCEPTED
-C2 asm, C2 py
 Verdict testul 419: ACCEPTED
-C2 asm, C2 py
 Verdict testul 420: ACCEPTED
-C1 asm, C1 py
 Verdict testul 421: ACCEPTED
-C1 asm, C1 py
 Verdict testul 422: ACCEPTED
-C1 asm, C1 py
 Verdict testul 423: ACCEPTED
-C1 asm, C1 py
 Verdict testul 424: ACCEPTED
-C2 asm, C2 py
 Verdict testul 425: ACCEPTED
-C1 asm, C1 py
 Verdict testul 426: ACCEPTED
-C1 asm, C1 py
 Verdict testul 427: ACCEPTED
-C2 asm, C2 py
 Verdict testul 428: ACCEPTED
-C1 asm, C1 py
 Verdict testul 429: ACCEPTED
-C1 asm, C1 py
 Verdict testul 430: ACCEPTED
-C2 asm, C2 py
-Verdict testul 431: ACCEPTED
-C1 asm, C1 py
+Verdict testul 431: WRONG ANSWER
+asm: 745129731, py: 198313625347 C2 asm, C2 py
 Verdict testul 432: ACCEPTED
-C1 asm, C1 py
 Verdict testul 433: ACCEPTED
-C2 asm, C2 py
-Verdict testul 434: ACCEPTED
-C1 asm, C1 py
+Verdict testul 434: WRONG ANSWER
+asm: 1558271200, py: 529588205737184 C2 asm, C2 py
 Verdict testul 435: ACCEPTED
-C2 asm, C2 py
 Verdict testul 436: ACCEPTED
-C1 asm, C1 py
 Verdict testul 437: ACCEPTED
-C1 asm, C1 py
-Verdict testul 438: ACCEPTED
-C1 asm, C1 py
+Verdict testul 438: WRONG ANSWER
+asm: -380596848, py: 6317516295568 C2 asm, C2 py
 Verdict testul 439: ACCEPTED
-C1 asm, C1 py
 Verdict testul 440: ACCEPTED
-C2 asm, C2 py
 Verdict testul 441: ACCEPTED
-C2 asm, C2 py
 Verdict testul 442: ACCEPTED
-C2 asm, C2 py
 Verdict testul 443: ACCEPTED
-C2 asm, C2 py
 Verdict testul 444: ACCEPTED
-C1 asm, C1 py
 Verdict testul 445: ACCEPTED
-C1 asm, C1 py
 Verdict testul 446: ACCEPTED
-C2 asm, C2 py
 Verdict testul 447: ACCEPTED
-C2 asm, C2 py
 Verdict testul 448: ACCEPTED
-C2 asm, C2 py
 Verdict testul 449: ACCEPTED
-C2 asm, C2 py
 Verdict testul 450: ACCEPTED
-C2 asm, C2 py
 Verdict testul 451: ACCEPTED
-C2 asm, C2 py
 Verdict testul 452: ACCEPTED
-C2 asm, C2 py
 Verdict testul 453: ACCEPTED
-C2 asm, C2 py
 Verdict testul 454: ACCEPTED
-C1 asm, C1 py
 Verdict testul 455: ACCEPTED
-C1 asm, C1 py
 Verdict testul 456: ACCEPTED
-C2 asm, C2 py
 Verdict testul 457: ACCEPTED
-C1 asm, C1 py
-Verdict testul 458: ACCEPTED
-C1 asm, C1 py
+Verdict testul 458: WRONG ANSWER
+asm: -798149978, py: 80806228646 C3 asm, C3 py
 Verdict testul 459: ACCEPTED
-C1 asm, C1 py
 Verdict testul 460: ACCEPTED
-C1 asm, C1 py
 Verdict testul 461: ACCEPTED
-C2 asm, C2 py
 Verdict testul 462: ACCEPTED
-C1 asm, C1 py
 Verdict testul 463: ACCEPTED
-C2 asm, C2 py
 Verdict testul 464: ACCEPTED
-C2 asm, C2 py
 Verdict testul 465: ACCEPTED
-C2 asm, C2 py
 Verdict testul 466: ACCEPTED
-C1 asm, C1 py
 Verdict testul 467: ACCEPTED
-C2 asm, C2 py
 Verdict testul 468: ACCEPTED
-C1 asm, C1 py
 Verdict testul 469: ACCEPTED
-C2 asm, C2 py
 Verdict testul 470: ACCEPTED
-C1 asm, C1 py
 Verdict testul 471: ACCEPTED
-C1 asm, C1 py
 Verdict testul 472: ACCEPTED
-C1 asm, C1 py
 Verdict testul 473: ACCEPTED
-C2 asm, C2 py
 Verdict testul 474: ACCEPTED
-C1 asm, C1 py
 Verdict testul 475: ACCEPTED
-C2 asm, C2 py
 Verdict testul 476: ACCEPTED
-C2 asm, C2 py
 Verdict testul 477: ACCEPTED
-C1 asm, C1 py
 Verdict testul 478: ACCEPTED
-C1 asm, C1 py
 Verdict testul 479: ACCEPTED
-C2 asm, C2 py
 Verdict testul 480: ACCEPTED
-C2 asm, C2 py
 Verdict testul 481: ACCEPTED
-C2 asm, C2 py
 Verdict testul 482: ACCEPTED
-C1 asm, C1 py
 Verdict testul 483: ACCEPTED
-C1 asm, C1 py
 Verdict testul 484: ACCEPTED
-C2 asm, C2 py
 Verdict testul 485: ACCEPTED
-C1 asm, C1 py
 Verdict testul 486: ACCEPTED
-C1 asm, C1 py
 Verdict testul 487: ACCEPTED
-C1 asm, C1 py
 Verdict testul 488: ACCEPTED
-C2 asm, C2 py
 Verdict testul 489: ACCEPTED
-C1 asm, C1 py
-Verdict testul 490: ACCEPTED
-C1 asm, C1 py
+Verdict testul 490: WRONG ANSWER
+asm: 1201354449, py: 482497827387089 C2 asm, C2 py
 Verdict testul 491: ACCEPTED
-C1 asm, C1 py
 Verdict testul 492: ACCEPTED
-C1 asm, C1 py
-Verdict testul 493: ACCEPTED
-C2 asm, C2 py
+Verdict testul 493: WRONG ANSWER
+asm: 1213469958, py: 26983273734 C2 asm, C2 py
 Verdict testul 494: ACCEPTED
-C1 asm, C1 py
 Verdict testul 495: ACCEPTED
-C2 asm, C2 py
 Verdict testul 496: ACCEPTED
-C1 asm, C1 py
 Verdict testul 497: ACCEPTED
-C2 asm, C2 py
 Verdict testul 498: ACCEPTED
-C1 asm, C1 py
 Verdict testul 499: ACCEPTED
-C1 asm, C1 py
 Verdict testul 500: ACCEPTED
-C2 asm, C2 py
-Verdict testul 501: ACCEPTED
-C2 asm, C2 py
+Verdict testul 501: WRONG ANSWER
+asm: -2046900971, py: 2248066325 C2 asm, C2 py
 Verdict testul 502: ACCEPTED
-C2 asm, C2 py
-Verdict testul 503: ACCEPTED
-C1 asm, C1 py
+Verdict testul 503: WRONG ANSWER
+asm: 661170955, py: 9251105547 C2 asm, C2 py
 Verdict testul 504: ACCEPTED
-C1 asm, C1 py
 Verdict testul 505: ACCEPTED
-C1 asm, C1 py
 Verdict testul 506: ACCEPTED
-C2 asm, C2 py
 Verdict testul 507: ACCEPTED
-C1 asm, C1 py
 Verdict testul 508: ACCEPTED
-C1 asm, C1 py
 Verdict testul 509: ACCEPTED
-C1 asm, C1 py
-Verdict testul 510: ACCEPTED
-C2 asm, C2 py
+Verdict testul 510: WRONG ANSWER
+asm: 1700711780, py: 448377310564 C3 asm, C3 py
 Verdict testul 511: ACCEPTED
-C1 asm, C1 py
 Verdict testul 512: ACCEPTED
-C1 asm, C1 py
 Verdict testul 513: ACCEPTED
-C1 asm, C1 py
 Verdict testul 514: ACCEPTED
-C2 asm, C2 py
 Verdict testul 515: ACCEPTED
-C2 asm, C2 py
 Verdict testul 516: ACCEPTED
-C1 asm, C1 py
 Verdict testul 517: ACCEPTED
-C1 asm, C1 py
 Verdict testul 518: ACCEPTED
-C1 asm, C1 py
 Verdict testul 519: ACCEPTED
-C1 asm, C1 py
 Verdict testul 520: ACCEPTED
-C1 asm, C1 py
 Verdict testul 521: ACCEPTED
-C1 asm, C1 py
 Verdict testul 522: ACCEPTED
-C2 asm, C2 py
 Verdict testul 523: ACCEPTED
-C1 asm, C1 py
 Verdict testul 524: ACCEPTED
-C1 asm, C1 py
-Verdict testul 525: ACCEPTED
-C1 asm, C1 py
+Verdict testul 525: WRONG ANSWER
+asm: -684063387, py: 16495805797 C2 asm, C2 py
 Verdict testul 526: ACCEPTED
-C2 asm, C2 py
 Verdict testul 527: ACCEPTED
-C2 asm, C2 py
 Verdict testul 528: ACCEPTED
-C1 asm, C1 py
 Verdict testul 529: ACCEPTED
-C2 asm, C2 py
 Verdict testul 530: ACCEPTED
-C2 asm, C2 py
-Verdict testul 531: ACCEPTED
-C1 asm, C1 py
+Verdict testul 531: WRONG ANSWER
+asm: 2135722121, py: 126689773705 C2 asm, C2 py
 Verdict testul 532: ACCEPTED
-C2 asm, C2 py
 Verdict testul 533: ACCEPTED
-C2 asm, C2 py
 Verdict testul 534: ACCEPTED
-C1 asm, C1 py
-Verdict testul 535: ACCEPTED
-C1 asm, C1 py
+Verdict testul 535: WRONG ANSWER
+asm: 1124433541, py: 6434985442949 C3 asm, C3 py
 Verdict testul 536: ACCEPTED
-C1 asm, C1 py
 Verdict testul 537: ACCEPTED
-C2 asm, C2 py
 Verdict testul 538: ACCEPTED
-C2 asm, C2 py
 Verdict testul 539: ACCEPTED
-C1 asm, C1 py
 Verdict testul 540: ACCEPTED
-C2 asm, C2 py
 Verdict testul 541: ACCEPTED
-C1 asm, C1 py
 Verdict testul 542: ACCEPTED
-C2 asm, C2 py
 Verdict testul 543: ACCEPTED
-C1 asm, C1 py
 Verdict testul 544: ACCEPTED
-C2 asm, C2 py
 Verdict testul 545: ACCEPTED
-C1 asm, C1 py
 Verdict testul 546: ACCEPTED
-C1 asm, C1 py
 Verdict testul 547: ACCEPTED
-C2 asm, C2 py
 Verdict testul 548: ACCEPTED
-C2 asm, C2 py
 Verdict testul 549: ACCEPTED
-C2 asm, C2 py
 Verdict testul 550: ACCEPTED
-C2 asm, C2 py
-Verdict testul 551: ACCEPTED
-C2 asm, C2 py
+Verdict testul 551: WRONG ANSWER
+asm: -932822893, py: 54901751955 C3 asm, C3 py
 Verdict testul 552: ACCEPTED
-C1 asm, C1 py
 Verdict testul 553: ACCEPTED
-C2 asm, C2 py
-Verdict testul 554: ACCEPTED
-C2 asm, C2 py
+Verdict testul 554: WRONG ANSWER
+asm: 362826860, py: 16007705939052 C3 asm, C3 py
 Verdict testul 555: ACCEPTED
-C1 asm, C1 py
 Verdict testul 556: ACCEPTED
-C2 asm, C2 py
 Verdict testul 557: ACCEPTED
-C1 asm, C1 py
-Verdict testul 558: ACCEPTED
-C2 asm, C2 py
+Verdict testul 558: WRONG ANSWER
+asm: 1848491444, py: 607438880180 C3 asm, C3 py
 Verdict testul 559: ACCEPTED
-C2 asm, C2 py
-Verdict testul 560: ACCEPTED
-C1 asm, C1 py
+Verdict testul 560: WRONG ANSWER
+asm: 754434780, py: 6164032504540 C3 asm, C3 py
 Verdict testul 561: ACCEPTED
-C2 asm, C2 py
 Verdict testul 562: ACCEPTED
-C1 asm, C1 py
 Verdict testul 563: ACCEPTED
-C1 asm, C1 py
 Verdict testul 564: ACCEPTED
-C1 asm, C1 py
-Verdict testul 565: ACCEPTED
-C2 asm, C2 py
+Verdict testul 565: WRONG ANSWER
+asm: -674094352, py: 446002504432 C2 asm, C2 py
 Verdict testul 566: ACCEPTED
-C2 asm, C2 py
 Verdict testul 567: ACCEPTED
-C1 asm, C1 py
 Verdict testul 568: ACCEPTED
-C2 asm, C2 py
 Verdict testul 569: ACCEPTED
-C1 asm, C1 py
 Verdict testul 570: ACCEPTED
-C1 asm, C1 py
 Verdict testul 571: ACCEPTED
-C1 asm, C1 py
 Verdict testul 572: ACCEPTED
-C1 asm, C1 py
 Verdict testul 573: ACCEPTED
-C1 asm, C1 py
 Verdict testul 574: ACCEPTED
-C1 asm, C1 py
 Verdict testul 575: ACCEPTED
-C2 asm, C2 py
 Verdict testul 576: ACCEPTED
-C2 asm, C2 py
-Verdict testul 577: ACCEPTED
-C1 asm, C1 py
+Verdict testul 577: WRONG ANSWER
+asm: -1860750982, py: 2434216314 C3 asm, C3 py
 Verdict testul 578: ACCEPTED
-C1 asm, C1 py
 Verdict testul 579: ACCEPTED
-C2 asm, C2 py
 Verdict testul 580: ACCEPTED
-C2 asm, C2 py
 Verdict testul 581: ACCEPTED
-C1 asm, C1 py
 Verdict testul 582: ACCEPTED
-C1 asm, C1 py
 Verdict testul 583: ACCEPTED
-C1 asm, C1 py
 Verdict testul 584: ACCEPTED
-C1 asm, C1 py
 Verdict testul 585: ACCEPTED
-C2 asm, C2 py
 Verdict testul 586: ACCEPTED
-C1 asm, C1 py
 Verdict testul 587: ACCEPTED
-C2 asm, C2 py
 Verdict testul 588: ACCEPTED
-C2 asm, C2 py
 Verdict testul 589: ACCEPTED
-C2 asm, C2 py
 Verdict testul 590: ACCEPTED
-C2 asm, C2 py
 Verdict testul 591: ACCEPTED
-C2 asm, C2 py
 Verdict testul 592: ACCEPTED
-C2 asm, C2 py
 Verdict testul 593: ACCEPTED
-C1 asm, C1 py
 Verdict testul 594: ACCEPTED
-C2 asm, C2 py
 Verdict testul 595: ACCEPTED
-C2 asm, C2 py
-Verdict testul 596: ACCEPTED
-C2 asm, C2 py
+Verdict testul 596: WRONG ANSWER
+asm: -1945172310, py: 28119598762 C2 asm, C2 py
 Verdict testul 597: ACCEPTED
-C2 asm, C2 py
-Verdict testul 598: ACCEPTED
-C2 asm, C2 py
+Verdict testul 598: WRONG ANSWER
+asm: -1908804458, py: 56837688390806 C2 asm, C2 py
 Verdict testul 599: ACCEPTED
-C1 asm, C1 py
 Verdict testul 600: ACCEPTED
-C2 asm, C2 py
 Verdict testul 601: ACCEPTED
-C2 asm, C2 py
 Verdict testul 602: ACCEPTED
-C2 asm, C2 py
-Verdict testul 603: ACCEPTED
-C2 asm, C2 py
+Verdict testul 603: WRONG ANSWER
+asm: 1235990389, py: 29082459551605 C2 asm, C2 py
 Verdict testul 604: ACCEPTED
-C1 asm, C1 py
 Verdict testul 605: ACCEPTED
-C1 asm, C1 py
 Verdict testul 606: ACCEPTED
-C1 asm, C1 py
 Verdict testul 607: ACCEPTED
-C1 asm, C1 py
 Verdict testul 608: ACCEPTED
-C2 asm, C2 py
 Verdict testul 609: ACCEPTED
-C1 asm, C1 py
 Verdict testul 610: ACCEPTED
-C1 asm, C1 py
 Verdict testul 611: ACCEPTED
-C2 asm, C2 py
-Verdict testul 612: ACCEPTED
-C2 asm, C2 py
+Verdict testul 612: WRONG ANSWER
+asm: -815927691, py: 16504743390837 C2 asm, C2 py
 Verdict testul 613: ACCEPTED
-C2 asm, C2 py
 Verdict testul 614: ACCEPTED
-C1 asm, C1 py
 Verdict testul 615: ACCEPTED
-C1 asm, C1 py
 Verdict testul 616: ACCEPTED
-C2 asm, C2 py
 Verdict testul 617: ACCEPTED
-C2 asm, C2 py
 Verdict testul 618: ACCEPTED
-C2 asm, C2 py
 Verdict testul 619: ACCEPTED
-C1 asm, C1 py
 Verdict testul 620: ACCEPTED
-C1 asm, C1 py
 Verdict testul 621: ACCEPTED
-C1 asm, C1 py
 Verdict testul 622: ACCEPTED
-C2 asm, C2 py
 Verdict testul 623: ACCEPTED
-C1 asm, C1 py
 Verdict testul 624: ACCEPTED
-C1 asm, C1 py
 Verdict testul 625: ACCEPTED
-C2 asm, C2 py
 Verdict testul 626: ACCEPTED
-C1 asm, C1 py
 Verdict testul 627: ACCEPTED
-C2 asm, C2 py
 Verdict testul 628: ACCEPTED
-C2 asm, C2 py
 Verdict testul 629: ACCEPTED
-C1 asm, C1 py
-Verdict testul 630: ACCEPTED
-C2 asm, C2 py
+Verdict testul 630: WRONG ANSWER
+asm: -99124411, py: 94390156101 C3 asm, C3 py
 Verdict testul 631: ACCEPTED
-C1 asm, C1 py
 Verdict testul 632: ACCEPTED
-C2 asm, C2 py
 Verdict testul 633: ACCEPTED
-C2 asm, C2 py
 Verdict testul 634: ACCEPTED
-C2 asm, C2 py
 Verdict testul 635: ACCEPTED
-C2 asm, C2 py
 Verdict testul 636: ACCEPTED
-C2 asm, C2 py
 Verdict testul 637: ACCEPTED
-C2 asm, C2 py
 Verdict testul 638: ACCEPTED
-C1 asm, C1 py
 Verdict testul 639: ACCEPTED
-C2 asm, C2 py
 Verdict testul 640: ACCEPTED
-C1 asm, C1 py
-Verdict testul 641: ACCEPTED
-C1 asm, C1 py
+Verdict testul 641: WRONG ANSWER
+asm: -1283574612, py: 20191261868 C3 asm, C3 py
 Verdict testul 642: ACCEPTED
-C1 asm, C1 py
 Verdict testul 643: ACCEPTED
-C2 asm, C2 py
 Verdict testul 644: ACCEPTED
-C2 asm, C2 py
 Verdict testul 645: ACCEPTED
-C1 asm, C1 py
 Verdict testul 646: ACCEPTED
-C1 asm, C1 py
 Verdict testul 647: ACCEPTED
-C2 asm, C2 py
 Verdict testul 648: ACCEPTED
-C1 asm, C1 py
 Verdict testul 649: ACCEPTED
-C1 asm, C1 py
 Verdict testul 650: ACCEPTED
-C1 asm, C1 py
-Verdict testul 651: ACCEPTED
-C1 asm, C1 py
+Verdict testul 651: WRONG ANSWER
+asm: -1868602582, py: 822765118250 C2 asm, C2 py
 Verdict testul 652: ACCEPTED
-C1 asm, C1 py
 Verdict testul 653: ACCEPTED
-C1 asm, C1 py
 Verdict testul 654: ACCEPTED
-C1 asm, C1 py
 Verdict testul 655: ACCEPTED
-C2 asm, C2 py
 Verdict testul 656: ACCEPTED
-C2 asm, C2 py
 Verdict testul 657: ACCEPTED
-C2 asm, C2 py
-Verdict testul 658: ACCEPTED
-C2 asm, C2 py
+Verdict testul 658: WRONG ANSWER
+asm: -64916820, py: 25704886956 C3 asm, C3 py
 Verdict testul 659: ACCEPTED
-C2 asm, C2 py
 Verdict testul 660: ACCEPTED
-C2 asm, C2 py
-Verdict testul 661: ACCEPTED
-C1 asm, C1 py
+Verdict testul 661: WRONG ANSWER
+asm: 1339991730, py: 18519860914 C3 asm, C3 py
 Verdict testul 662: ACCEPTED
-C1 asm, C1 py
-Verdict testul 663: ACCEPTED
-C2 asm, C2 py
+Verdict testul 663: WRONG ANSWER
+asm: -778634144, py: 4586246437984 C2 asm, C2 py
 Verdict testul 664: ACCEPTED
-C2 asm, C2 py
 Verdict testul 665: ACCEPTED
-C2 asm, C2 py
 Verdict testul 666: ACCEPTED
-C2 asm, C2 py
 Verdict testul 667: ACCEPTED
-C1 asm, C1 py
 Verdict testul 668: ACCEPTED
-C1 asm, C1 py
 Verdict testul 669: ACCEPTED
-C1 asm, C1 py
 Verdict testul 670: ACCEPTED
-C2 asm, C2 py
 Verdict testul 671: ACCEPTED
-C2 asm, C2 py
-Verdict testul 672: ACCEPTED
-C1 asm, C1 py
+Verdict testul 672: WRONG ANSWER
+asm: -1560740583, py: 62863768857 C3 asm, C3 py
 Verdict testul 673: ACCEPTED
-C2 asm, C2 py
 Verdict testul 674: ACCEPTED
-C2 asm, C2 py
 Verdict testul 675: ACCEPTED
-C1 asm, C1 py
 Verdict testul 676: ACCEPTED
-C2 asm, C2 py
 Verdict testul 677: ACCEPTED
-C1 asm, C1 py
 Verdict testul 678: ACCEPTED
-C2 asm, C2 py
 Verdict testul 679: ACCEPTED
-C1 asm, C1 py
 Verdict testul 680: ACCEPTED
-C2 asm, C2 py
 Verdict testul 681: ACCEPTED
-C2 asm, C2 py
-Verdict testul 682: ACCEPTED
-C2 asm, C2 py
+Verdict testul 682: WRONG ANSWER
+asm: 1801150586, py: 358146239062138 C2 asm, C2 py
 Verdict testul 683: ACCEPTED
-C1 asm, C1 py
-Verdict testul 684: ACCEPTED
-C1 asm, C1 py
+Verdict testul 684: WRONG ANSWER
+asm: -2041636696, py: 13982371879080 C2 asm, C2 py
 Verdict testul 685: ACCEPTED
-C1 asm, C1 py
 Verdict testul 686: ACCEPTED
-C1 asm, C1 py
 Verdict testul 687: ACCEPTED
-C1 asm, C1 py
 Verdict testul 688: ACCEPTED
-C2 asm, C2 py
 Verdict testul 689: ACCEPTED
-C2 asm, C2 py
 Verdict testul 690: ACCEPTED
-C2 asm, C2 py
 Verdict testul 691: ACCEPTED
-C1 asm, C1 py
 Verdict testul 692: ACCEPTED
-C1 asm, C1 py
 Verdict testul 693: ACCEPTED
-C2 asm, C2 py
 Verdict testul 694: ACCEPTED
-C2 asm, C2 py
 Verdict testul 695: ACCEPTED
-C1 asm, C1 py
 Verdict testul 696: ACCEPTED
-C1 asm, C1 py
 Verdict testul 697: ACCEPTED
-C1 asm, C1 py
 Verdict testul 698: ACCEPTED
-C1 asm, C1 py
 Verdict testul 699: ACCEPTED
-C2 asm, C2 py
 Verdict testul 700: ACCEPTED
-C1 asm, C1 py
 Verdict testul 701: ACCEPTED
-C1 asm, C1 py
 Verdict testul 702: ACCEPTED
-C1 asm, C1 py
 Verdict testul 703: ACCEPTED
-C1 asm, C1 py
 Verdict testul 704: ACCEPTED
-C2 asm, C2 py
 Verdict testul 705: ACCEPTED
-C2 asm, C2 py
-Verdict testul 706: ACCEPTED
-C2 asm, C2 py
+Verdict testul 706: WRONG ANSWER
+asm: -668366544, py: 12216535344 C3 asm, C3 py
 Verdict testul 707: ACCEPTED
-C1 asm, C1 py
 Verdict testul 708: ACCEPTED
-C2 asm, C2 py
 Verdict testul 709: ACCEPTED
-C1 asm, C1 py
 Verdict testul 710: ACCEPTED
-C2 asm, C2 py
 Verdict testul 711: ACCEPTED
-C2 asm, C2 py
 Verdict testul 712: ACCEPTED
-C2 asm, C2 py
-Verdict testul 713: ACCEPTED
-C1 asm, C1 py
-Verdict testul 714: ACCEPTED
-C2 asm, C2 py
+Verdict testul 713: WRONG ANSWER
+asm: -1470007703, py: 97314240105 C2 asm, C2 py
+Verdict testul 714: WRONG ANSWER
+asm: -2095762402, py: 62328747038 C2 asm, C2 py
 Verdict testul 715: ACCEPTED
-C2 asm, C2 py
 Verdict testul 716: ACCEPTED
-C1 asm, C1 py
 Verdict testul 717: ACCEPTED
-C2 asm, C2 py
 Verdict testul 718: ACCEPTED
-C1 asm, C1 py
 Verdict testul 719: ACCEPTED
-C2 asm, C2 py
 Verdict testul 720: ACCEPTED
-C2 asm, C2 py
-Verdict testul 721: ACCEPTED
-C1 asm, C1 py
+Verdict testul 721: WRONG ANSWER
+asm: -1015990604, py: 3278976692 C2 asm, C2 py
 Verdict testul 722: ACCEPTED
-C1 asm, C1 py
 Verdict testul 723: ACCEPTED
-C2 asm, C2 py
 Verdict testul 724: ACCEPTED
-C2 asm, C2 py
 Verdict testul 725: ACCEPTED
-C1 asm, C1 py
 Verdict testul 726: ACCEPTED
-C2 asm, C2 py
 Verdict testul 727: ACCEPTED
-C2 asm, C2 py
 Verdict testul 728: ACCEPTED
-C1 asm, C1 py
 Verdict testul 729: ACCEPTED
-C1 asm, C1 py
 Verdict testul 730: ACCEPTED
-C1 asm, C1 py
 Verdict testul 731: ACCEPTED
-C2 asm, C2 py
 Verdict testul 732: ACCEPTED
-C1 asm, C1 py
 Verdict testul 733: ACCEPTED
-C1 asm, C1 py
 Verdict testul 734: ACCEPTED
-C2 asm, C2 py
 Verdict testul 735: ACCEPTED
-C1 asm, C1 py
 Verdict testul 736: ACCEPTED
-C2 asm, C2 py
 Verdict testul 737: ACCEPTED
-C2 asm, C2 py
 Verdict testul 738: ACCEPTED
-C1 asm, C1 py
 Verdict testul 739: ACCEPTED
-C2 asm, C2 py
 Verdict testul 740: ACCEPTED
-C1 asm, C1 py
 Verdict testul 741: ACCEPTED
-C2 asm, C2 py
-Verdict testul 742: ACCEPTED
-C1 asm, C1 py
+Verdict testul 742: WRONG ANSWER
+asm: 2085451287, py: 1512479113704983 C3 asm, C3 py
 Verdict testul 743: ACCEPTED
-C2 asm, C2 py
 Verdict testul 744: ACCEPTED
-C1 asm, C1 py
 Verdict testul 745: ACCEPTED
-C1 asm, C1 py
 Verdict testul 746: ACCEPTED
-C2 asm, C2 py
 Verdict testul 747: ACCEPTED
-C2 asm, C2 py
 Verdict testul 748: ACCEPTED
-C1 asm, C1 py
 Verdict testul 749: ACCEPTED
-C1 asm, C1 py
-Verdict testul 750: ACCEPTED
-C1 asm, C1 py
+Verdict testul 750: WRONG ANSWER
+asm: -96394902, py: 437990269290 C3 asm, C3 py
 Verdict testul 751: ACCEPTED
-C1 asm, C1 py
 Verdict testul 752: ACCEPTED
-C2 asm, C2 py
 Verdict testul 753: ACCEPTED
-C2 asm, C2 py
 Verdict testul 754: ACCEPTED
-C2 asm, C2 py
 Verdict testul 755: ACCEPTED
-C2 asm, C2 py
 Verdict testul 756: ACCEPTED
-C1 asm, C1 py
 Verdict testul 757: ACCEPTED
-C2 asm, C2 py
 Verdict testul 758: ACCEPTED
-C1 asm, C1 py
 Verdict testul 759: ACCEPTED
-C2 asm, C2 py
-Verdict testul 760: ACCEPTED
-C2 asm, C2 py
+Verdict testul 760: WRONG ANSWER
+asm: 1570077752, py: 100354325560 C3 asm, C3 py
 Verdict testul 761: ACCEPTED
-C1 asm, C1 py
 Verdict testul 762: ACCEPTED
-C2 asm, C2 py
-Verdict testul 763: ACCEPTED
-C2 asm, C2 py
+Verdict testul 763: WRONG ANSWER
+asm: 1402541189, py: 4906255193221 C2 asm, C2 py
 Verdict testul 764: ACCEPTED
-C2 asm, C2 py
 Verdict testul 765: ACCEPTED
-C1 asm, C1 py
 Verdict testul 766: ACCEPTED
-C1 asm, C1 py
 Verdict testul 767: ACCEPTED
-C2 asm, C2 py
 Verdict testul 768: ACCEPTED
-C2 asm, C2 py
 Verdict testul 769: ACCEPTED
-C1 asm, C1 py
 Verdict testul 770: ACCEPTED
-C1 asm, C1 py
 Verdict testul 771: ACCEPTED
-C2 asm, C2 py
 Verdict testul 772: ACCEPTED
-C1 asm, C1 py
 Verdict testul 773: ACCEPTED
-C2 asm, C2 py
 Verdict testul 774: ACCEPTED
-C2 asm, C2 py
-Verdict testul 775: ACCEPTED
-C1 asm, C1 py
+Verdict testul 775: WRONG ANSWER
+asm: -393997230, py: 2662485726290 C2 asm, C2 py
 Verdict testul 776: ACCEPTED
-C1 asm, C1 py
 Verdict testul 777: ACCEPTED
-C1 asm, C1 py
 Verdict testul 778: ACCEPTED
-C1 asm, C1 py
 Verdict testul 779: ACCEPTED
-C1 asm, C1 py
 Verdict testul 780: ACCEPTED
-C2 asm, C2 py
-Verdict testul 781: ACCEPTED
-C1 asm, C1 py
+Verdict testul 781: WRONG ANSWER
+asm: -1282501953, py: 101796713151 C2 asm, C2 py
 Verdict testul 782: ACCEPTED
-C2 asm, C2 py
 Verdict testul 783: ACCEPTED
-C2 asm, C2 py
 Verdict testul 784: ACCEPTED
-C2 asm, C2 py
 Verdict testul 785: ACCEPTED
-C1 asm, C1 py
 Verdict testul 786: ACCEPTED
-C2 asm, C2 py
 Verdict testul 787: ACCEPTED
-C1 asm, C1 py
 Verdict testul 788: ACCEPTED
-C2 asm, C2 py
 Verdict testul 789: ACCEPTED
-C1 asm, C1 py
-Verdict testul 790: ACCEPTED
-C2 asm, C2 py
+Verdict testul 790: WRONG ANSWER
+asm: -1356578357, py: 136082375115 C3 asm, C3 py
 Verdict testul 791: ACCEPTED
-C2 asm, C2 py
-Verdict testul 792: ACCEPTED
-C1 asm, C1 py
+Verdict testul 792: WRONG ANSWER
+asm: -777091096, py: 3517876200 C2 asm, C2 py
 Verdict testul 793: ACCEPTED
-C2 asm, C2 py
 Verdict testul 794: ACCEPTED
-C2 asm, C2 py
 Verdict testul 795: ACCEPTED
-C1 asm, C1 py
-Verdict testul 796: ACCEPTED
-C2 asm, C2 py
-Verdict testul 797: ACCEPTED
-C1 asm, C1 py
+Verdict testul 796: WRONG ANSWER
+asm: -405369182, py: 21069467298 C2 asm, C2 py
+Verdict testul 797: WRONG ANSWER
+asm: 1545426164, py: 48790066420 C3 asm, C3 py
 Verdict testul 798: ACCEPTED
-C2 asm, C2 py
 Verdict testul 799: ACCEPTED
-C2 asm, C2 py
-Verdict testul 800: ACCEPTED
-C1 asm, C1 py
+Verdict testul 800: WRONG ANSWER
+asm: -25678156, py: 171773013684 C2 asm, C2 py
 Verdict testul 801: ACCEPTED
-C2 asm, C2 py
 Verdict testul 802: ACCEPTED
-C1 asm, C1 py
 Verdict testul 803: ACCEPTED
-C1 asm, C1 py
 Verdict testul 804: ACCEPTED
-C1 asm, C1 py
 Verdict testul 805: ACCEPTED
-C1 asm, C1 py
 Verdict testul 806: ACCEPTED
-C2 asm, C2 py
-Verdict testul 807: ACCEPTED
-C2 asm, C2 py
-Verdict testul 808: ACCEPTED
-C2 asm, C2 py
+Verdict testul 807: WRONG ANSWER
+asm: -211545669, py: 1511616942523 C2 asm, C2 py
+Verdict testul 808: WRONG ANSWER
+asm: -1497222209, py: 7092712383 C3 asm, C3 py
 Verdict testul 809: ACCEPTED
-C1 asm, C1 py
 Verdict testul 810: ACCEPTED
-C2 asm, C2 py
-Verdict testul 811: ACCEPTED
-C1 asm, C1 py
+Verdict testul 811: WRONG ANSWER
+asm: -247945797, py: 38173421381051 C2 asm, C2 py
 Verdict testul 812: ACCEPTED
-C1 asm, C1 py
 Verdict testul 813: ACCEPTED
-C2 asm, C2 py
-Verdict testul 814: ACCEPTED
-C2 asm, C2 py
+Verdict testul 814: WRONG ANSWER
+asm: 1804658174, py: 23279494654 C3 asm, C3 py
 Verdict testul 815: ACCEPTED
-C2 asm, C2 py
 Verdict testul 816: ACCEPTED
-C1 asm, C1 py
 Verdict testul 817: ACCEPTED
-C1 asm, C1 py
-Verdict testul 818: ACCEPTED
-C2 asm, C2 py
+Verdict testul 818: WRONG ANSWER
+asm: -1399572747, py: 187578988277 C3 asm, C3 py
 Verdict testul 819: ACCEPTED
-C2 asm, C2 py
 Verdict testul 820: ACCEPTED
-C1 asm, C1 py
 Verdict testul 821: ACCEPTED
-C1 asm, C1 py
 Verdict testul 822: ACCEPTED
-C1 asm, C1 py
 Verdict testul 823: ACCEPTED
-C2 asm, C2 py
 Verdict testul 824: ACCEPTED
-C1 asm, C1 py
 Verdict testul 825: ACCEPTED
-C2 asm, C2 py
 Verdict testul 826: ACCEPTED
-C2 asm, C2 py
 Verdict testul 827: ACCEPTED
-C1 asm, C1 py
 Verdict testul 828: ACCEPTED
-C2 asm, C2 py
 Verdict testul 829: ACCEPTED
-C1 asm, C1 py
 Verdict testul 830: ACCEPTED
-C1 asm, C1 py
 Verdict testul 831: ACCEPTED
-C1 asm, C1 py
-Verdict testul 832: ACCEPTED
-C2 asm, C2 py
+Verdict testul 832: WRONG ANSWER
+asm: -1334705481, py: 45909934775 C3 asm, C3 py
 Verdict testul 833: ACCEPTED
-C1 asm, C1 py
-Verdict testul 834: ACCEPTED
-C2 asm, C2 py
+Verdict testul 834: WRONG ANSWER
+asm: -902272983, py: 46342367273 C2 asm, C2 py
 Verdict testul 835: ACCEPTED
-C2 asm, C2 py
 Verdict testul 836: ACCEPTED
-C1 asm, C1 py
 Verdict testul 837: ACCEPTED
-C2 asm, C2 py
 Verdict testul 838: ACCEPTED
-C1 asm, C1 py
 Verdict testul 839: ACCEPTED
-C2 asm, C2 py
 Verdict testul 840: ACCEPTED
-C1 asm, C1 py
 Verdict testul 841: ACCEPTED
-C2 asm, C2 py
 Verdict testul 842: ACCEPTED
-C1 asm, C1 py
 Verdict testul 843: ACCEPTED
-C2 asm, C2 py
 Verdict testul 844: ACCEPTED
-C2 asm, C2 py
 Verdict testul 845: ACCEPTED
-C1 asm, C1 py
 Verdict testul 846: ACCEPTED
-C2 asm, C2 py
 Verdict testul 847: ACCEPTED
-C2 asm, C2 py
 Verdict testul 848: ACCEPTED
-C2 asm, C2 py
 Verdict testul 849: ACCEPTED
-C1 asm, C1 py
 Verdict testul 850: ACCEPTED
-C1 asm, C1 py
-Verdict testul 851: ACCEPTED
-C2 asm, C2 py
+Verdict testul 851: WRONG ANSWER
+asm: 1422506398, py: 6190470379934 C2 asm, C2 py
 Verdict testul 852: ACCEPTED
-C2 asm, C2 py
 Verdict testul 853: ACCEPTED
-C1 asm, C1 py
 Verdict testul 854: ACCEPTED
-C1 asm, C1 py
 Verdict testul 855: ACCEPTED
-C1 asm, C1 py
 Verdict testul 856: ACCEPTED
-C1 asm, C1 py
 Verdict testul 857: ACCEPTED
-C2 asm, C2 py
 Verdict testul 858: ACCEPTED
-C2 asm, C2 py
 Verdict testul 859: ACCEPTED
-C2 asm, C2 py
 Verdict testul 860: ACCEPTED
-C2 asm, C2 py
 Verdict testul 861: ACCEPTED
-C1 asm, C1 py
 Verdict testul 862: ACCEPTED
-C1 asm, C1 py
-Verdict testul 863: ACCEPTED
-C2 asm, C2 py
-Verdict testul 864: ACCEPTED
-C2 asm, C2 py
+Verdict testul 863: WRONG ANSWER
+asm: 2125385866, py: 83729764490 C2 asm, C2 py
+Verdict testul 864: WRONG ANSWER
+asm: -2114808581, py: 1042725750347003 C3 asm, C3 py
 Verdict testul 865: ACCEPTED
-C2 asm, C2 py
 Verdict testul 866: ACCEPTED
-C2 asm, C2 py
 Verdict testul 867: ACCEPTED
-C2 asm, C2 py
 Verdict testul 868: ACCEPTED
-C1 asm, C1 py
-Verdict testul 869: ACCEPTED
-C2 asm, C2 py
+Verdict testul 869: WRONG ANSWER
+asm: 876418526, py: 3840577181150 C2 asm, C2 py
 Verdict testul 870: ACCEPTED
-C2 asm, C2 py
-Verdict testul 871: ACCEPTED
-C2 asm, C2 py
+Verdict testul 871: WRONG ANSWER
+asm: -1647189844, py: 2647777452 C3 asm, C3 py
 Verdict testul 872: ACCEPTED
-C1 asm, C1 py
 Verdict testul 873: ACCEPTED
-C2 asm, C2 py
 Verdict testul 874: ACCEPTED
-C1 asm, C1 py
 Verdict testul 875: ACCEPTED
-C2 asm, C2 py
 Verdict testul 876: ACCEPTED
-C1 asm, C1 py
 Verdict testul 877: ACCEPTED
-C2 asm, C2 py
 Verdict testul 878: ACCEPTED
-C2 asm, C2 py
 Verdict testul 879: ACCEPTED
-C2 asm, C2 py
-Verdict testul 880: ACCEPTED
-C2 asm, C2 py
+Verdict testul 880: WRONG ANSWER
+asm: 762713809, py: 90830731089617 C2 asm, C2 py
 Verdict testul 881: ACCEPTED
-C1 asm, C1 py
 Verdict testul 882: ACCEPTED
-C1 asm, C1 py
 Verdict testul 883: ACCEPTED
-C2 asm, C2 py
 Verdict testul 884: ACCEPTED
-C2 asm, C2 py
 Verdict testul 885: ACCEPTED
-C2 asm, C2 py
 Verdict testul 886: ACCEPTED
-C1 asm, C1 py
 Verdict testul 887: ACCEPTED
-C2 asm, C2 py
 Verdict testul 888: ACCEPTED
-C2 asm, C2 py
-Verdict testul 889: ACCEPTED
-C1 asm, C1 py
+Verdict testul 889: WRONG ANSWER
+asm: -1981831805, py: 122580679763331 C2 asm, C2 py
 Verdict testul 890: ACCEPTED
-C1 asm, C1 py
 Verdict testul 891: ACCEPTED
-C2 asm, C2 py
 Verdict testul 892: ACCEPTED
-C2 asm, C2 py
 Verdict testul 893: ACCEPTED
-C1 asm, C1 py
 Verdict testul 894: ACCEPTED
-C2 asm, C2 py
 Verdict testul 895: ACCEPTED
-C2 asm, C2 py
 Verdict testul 896: ACCEPTED
-C2 asm, C2 py
 Verdict testul 897: ACCEPTED
-C1 asm, C1 py
-Verdict testul 898: ACCEPTED
-C2 asm, C2 py
+Verdict testul 898: WRONG ANSWER
+asm: 20073439, py: 27968847104991 C3 asm, C3 py
 Verdict testul 899: ACCEPTED
-C1 asm, C1 py
 Verdict testul 900: ACCEPTED
-C2 asm, C2 py
 Verdict testul 901: ACCEPTED
-C2 asm, C2 py
 Verdict testul 902: ACCEPTED
-C2 asm, C2 py
 Verdict testul 903: ACCEPTED
-C2 asm, C2 py
 Verdict testul 904: ACCEPTED
-C2 asm, C2 py
 Verdict testul 905: ACCEPTED
-C2 asm, C2 py
 Verdict testul 906: ACCEPTED
-C1 asm, C1 py
 Verdict testul 907: ACCEPTED
-C2 asm, C2 py
 Verdict testul 908: ACCEPTED
-C2 asm, C2 py
 Verdict testul 909: ACCEPTED
-C2 asm, C2 py
 Verdict testul 910: ACCEPTED
-C2 asm, C2 py
 Verdict testul 911: ACCEPTED
-C1 asm, C1 py
 Verdict testul 912: ACCEPTED
-C1 asm, C1 py
 Verdict testul 913: ACCEPTED
-C2 asm, C2 py
 Verdict testul 914: ACCEPTED
-C2 asm, C2 py
 Verdict testul 915: ACCEPTED
-C1 asm, C1 py
-Verdict testul 916: ACCEPTED
-C2 asm, C2 py
+Verdict testul 916: WRONG ANSWER
+asm: -1342888506, py: 24426915270 C3 asm, C3 py
 Verdict testul 917: ACCEPTED
-C2 asm, C2 py
-Verdict testul 918: ACCEPTED
-C2 asm, C2 py
+Verdict testul 918: WRONG ANSWER
+asm: -895926374, py: 3399040922 C2 asm, C2 py
 Verdict testul 919: ACCEPTED
-C1 asm, C1 py
 Verdict testul 920: ACCEPTED
-C2 asm, C2 py
 Verdict testul 921: ACCEPTED
-C2 asm, C2 py
 Verdict testul 922: ACCEPTED
-C1 asm, C1 py
 Verdict testul 923: ACCEPTED
-C1 asm, C1 py
 Verdict testul 924: ACCEPTED
-C1 asm, C1 py
 Verdict testul 925: ACCEPTED
-C2 asm, C2 py
-Verdict testul 926: ACCEPTED
-C2 asm, C2 py
+Verdict testul 926: WRONG ANSWER
+asm: 2016438492, py: 49261078748 C2 asm, C2 py
 Verdict testul 927: ACCEPTED
-C2 asm, C2 py
 Verdict testul 928: ACCEPTED
-C1 asm, C1 py
 Verdict testul 929: ACCEPTED
-C1 asm, C1 py
 Verdict testul 930: ACCEPTED
-C1 asm, C1 py
 Verdict testul 931: ACCEPTED
-C1 asm, C1 py
 Verdict testul 932: ACCEPTED
-C2 asm, C2 py
 Verdict testul 933: ACCEPTED
-C1 asm, C1 py
 Verdict testul 934: ACCEPTED
-C2 asm, C2 py
 Verdict testul 935: ACCEPTED
-C2 asm, C2 py
 Verdict testul 936: ACCEPTED
-C1 asm, C1 py
 Verdict testul 937: ACCEPTED
-C2 asm, C2 py
 Verdict testul 938: ACCEPTED
-C1 asm, C1 py
 Verdict testul 939: ACCEPTED
-C1 asm, C1 py
 Verdict testul 940: ACCEPTED
-C2 asm, C2 py
 Verdict testul 941: ACCEPTED
-C2 asm, C2 py
-Verdict testul 942: ACCEPTED
-C2 asm, C2 py
+Verdict testul 942: WRONG ANSWER
+asm: -1776059839, py: 1033311058497 C3 asm, C3 py
 Verdict testul 943: ACCEPTED
-C1 asm, C1 py
 Verdict testul 944: ACCEPTED
-C1 asm, C1 py
-Verdict testul 945: ACCEPTED
-C2 asm, C2 py
+Verdict testul 945: WRONG ANSWER
+asm: -2072935870, py: 371589218882 C2 asm, C2 py
 Verdict testul 946: ACCEPTED
-C1 asm, C1 py
-Verdict testul 947: ACCEPTED
-C2 asm, C2 py
+Verdict testul 947: WRONG ANSWER
+asm: 73193052, py: 12958094940 C2 asm, C2 py
 Verdict testul 948: ACCEPTED
-C1 asm, C1 py
 Verdict testul 949: ACCEPTED
-C1 asm, C1 py
 Verdict testul 950: ACCEPTED
-C1 asm, C1 py
 Verdict testul 951: ACCEPTED
-C1 asm, C1 py
 Verdict testul 952: ACCEPTED
-C1 asm, C1 py
 Verdict testul 953: ACCEPTED
-C2 asm, C2 py
 Verdict testul 954: ACCEPTED
-C2 asm, C2 py
 Verdict testul 955: ACCEPTED
-C2 asm, C2 py
 Verdict testul 956: ACCEPTED
-C2 asm, C2 py
-Verdict testul 957: ACCEPTED
-C2 asm, C2 py
+Verdict testul 957: WRONG ANSWER
+asm: -1004728152, py: 20470108328 C3 asm, C3 py
 Verdict testul 958: ACCEPTED
-C2 asm, C2 py
 Verdict testul 959: ACCEPTED
-C2 asm, C2 py
 Verdict testul 960: ACCEPTED
-C1 asm, C1 py
 Verdict testul 961: ACCEPTED
-C1 asm, C1 py
 Verdict testul 962: ACCEPTED
-C2 asm, C2 py
 Verdict testul 963: ACCEPTED
-C2 asm, C2 py
-Verdict testul 964: ACCEPTED
-C2 asm, C2 py
+Verdict testul 964: WRONG ANSWER
+asm: -1103997623, py: 217939334473 C3 asm, C3 py
 Verdict testul 965: ACCEPTED
-C2 asm, C2 py
 Verdict testul 966: ACCEPTED
-C2 asm, C2 py
 Verdict testul 967: ACCEPTED
-C1 asm, C1 py
 Verdict testul 968: ACCEPTED
-C2 asm, C2 py
 Verdict testul 969: ACCEPTED
-C2 asm, C2 py
 Verdict testul 970: ACCEPTED
-C1 asm, C1 py
 Verdict testul 971: ACCEPTED
-C2 asm, C2 py
 Verdict testul 972: ACCEPTED
-C2 asm, C2 py
 Verdict testul 973: ACCEPTED
-C2 asm, C2 py
 Verdict testul 974: ACCEPTED
-C2 asm, C2 py
-Verdict testul 975: ACCEPTED
-C2 asm, C2 py
+Verdict testul 975: WRONG ANSWER
+asm: 127844099, py: 359974221823747 C3 asm, C3 py
 Verdict testul 976: ACCEPTED
-C2 asm, C2 py
 Verdict testul 977: ACCEPTED
-C1 asm, C1 py
-Verdict testul 978: ACCEPTED
-C1 asm, C1 py
+Verdict testul 978: WRONG ANSWER
+asm: -1549313682, py: 2745653614 C3 asm, C3 py
 Verdict testul 979: ACCEPTED
-C1 asm, C1 py
 Verdict testul 980: ACCEPTED
-C1 asm, C1 py
 Verdict testul 981: ACCEPTED
-C2 asm, C2 py
-Verdict testul 982: ACCEPTED
-C2 asm, C2 py
+Verdict testul 982: WRONG ANSWER
+asm: 2087647442, py: 53627254994 C3 asm, C3 py
 Verdict testul 983: ACCEPTED
-C2 asm, C2 py
 Verdict testul 984: ACCEPTED
-C1 asm, C1 py
 Verdict testul 985: ACCEPTED
-C2 asm, C2 py
 Verdict testul 986: ACCEPTED
-C2 asm, C2 py
-Verdict testul 987: ACCEPTED
-C1 asm, C1 py
+Verdict testul 987: WRONG ANSWER
+asm: -875630760, py: 80728747864 C3 asm, C3 py
 Verdict testul 988: ACCEPTED
-C1 asm, C1 py
 Verdict testul 989: ACCEPTED
-C2 asm, C2 py
 Verdict testul 990: ACCEPTED
-C1 asm, C1 py
 Verdict testul 991: ACCEPTED
-C1 asm, C1 py
 Verdict testul 992: ACCEPTED
-C1 asm, C1 py
-Verdict testul 993: ACCEPTED
-C2 asm, C2 py
+Verdict testul 993: WRONG ANSWER
+asm: -52916025, py: 167450808519 C2 asm, C2 py
 Verdict testul 994: ACCEPTED
-C2 asm, C2 py
 Verdict testul 995: ACCEPTED
-C1 asm, C1 py
 Verdict testul 996: ACCEPTED
-C2 asm, C2 py
 Verdict testul 997: ACCEPTED
-C2 asm, C2 py
-Verdict testul 998: ACCEPTED
-C2 asm, C2 py
+Verdict testul 998: WRONG ANSWER
+asm: 457080373, py: 77766491701 C3 asm, C3 py
 Verdict testul 999: ACCEPTED
-C2 asm, C2 py
 Verdict testul 1000: ACCEPTED
-C1 asm, C1 py

@@ -6,9 +6,16 @@ output = "/home/alexmiclea/Documents/Proiect-Lab-ASC/util/rez.txt"
 
 outfile = open(output, "w")
 
+inputs = "/home/alexmiclea/Documents/Proiect-Lab-ASC/inputs/"
+
 for test in range(1000):
     #print(f"Verdict testul {test+1}: ", end=' ')
     outfile.write(f"Verdict testul {test+1}: ")
+
+    testfile = open(inputs + f"test{test+1}.txt", "r")
+    c = testfile.read()
+    #print(c[0])
+    c = int(c[0])
 
     test_asm = open(asm_sol + f"test{test+1}.txt", "r")
     test_py = open(py_sol + f"test{test+1}.txt", "r")
@@ -24,17 +31,10 @@ for test in range(1000):
     data_py = test_py.readlines().copy()
     data_py = [x.strip(" \n") for x in data_py]
 
-    if len(data_asm) == 1:
-        #print("C2 asm, ", end ="")
-        outfile.write("C2 asm, ")
-    else:
-        #print("C1 asm, ", end ="")
-        outfile.write("C1 asm, ")
-    if len(data_py) == 1:
-        #print("C2 py")
-        outfile.write("C2 py\n")
-    else:
-        #print("C1 py")
-        outfile.write("C1 py\n")
+    if verdict == False:
+        outfile.write("asm: " + str(data_asm[0]) + ", py: " + str(data_py[0]) + " ")
+
+        outfile.write(f"C{c} asm, ")
+        outfile.write(f"C{c} py\n")
 
     

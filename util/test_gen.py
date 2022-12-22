@@ -18,7 +18,7 @@ input_location = "/home/alexmiclea/Documents/Proiect-Lab-ASC/inputs/"
 for i in range(1000): #creez 1000 teste
     random.seed(a=None, version=2)
     nr_noduri = random.randint(2,100) #intre 2 si 100 noduri
-    cerinta = random.randint(1,2)
+    cerinta = random.randint(1,3)
     with open(input_location + f"test{i+1}.txt", "w") as file:
         l = []
         file.write(str(cerinta))
@@ -45,8 +45,8 @@ for i in range(1000): #creez 1000 teste
                 file.write(str(el))
                 file.write("\n")
 
-        if cerinta == 2:
-            file.write(str(random.randint(1, 3)))
+        if cerinta != 1:
+            file.write(str(random.randint(1, 10)))
             file.write("\n")
             file.write(str(random.randint(0, nr_noduri-1)))
 
