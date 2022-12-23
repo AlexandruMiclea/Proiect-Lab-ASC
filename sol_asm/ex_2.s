@@ -34,7 +34,7 @@
 
         subl $12, %esp #3 variabile locale pt idxlin, idxnod, n
 
-        // accesarea o fac prin scaderea lui ebp
+        # accesarea o fac prin scaderea lui ebp
 
         movl 8(%ebp), %esi
         movl 12(%ebp), %edi
@@ -49,7 +49,7 @@
             movl -16(%ebp), %ebx
             movl -20(%ebp), %ecx
             cmp %ecx, %ebx
-            //je lmultinit
+            #je lmultinit
             je init_matexit
 
             lj:
@@ -88,7 +88,7 @@
 
     matrix_mult:
 
-        //inmultesc m1 la m2 (matrice la matriceAux)
+        #inmultesc m1 la m2 (matrice la matriceAux)
 
         pushl %ebp
         movl %esp, %ebp
@@ -229,8 +229,7 @@ main:
     call scanf
     addl $8, %esp
 
-    #marime matrice
-
+    #marime matrice (4*n*n)
     xorl %edx, %edx
     movl numarNoduri, %eax
     mull numarNoduri
@@ -239,52 +238,47 @@ main:
 
     movl $192, %eax #codul pentru apel de sistem mmap2
     xorl %ebx, %ebx #parametru adresa, punand valoarea NULL las SO sa decida
-                  #unde anume sa imi aloce spatiul de memorie
+                    #unde anume sa imi aloce spatiul de memorie
     movl marimeMatrice, %ecx #aici o sa fie n*n pe care l-am obtinut anterior
     movl PROT_RW, %edx #0x1 este codul pentru read, 0x2 cel pentru write
                        #intre ele fac inclusive or si obtin 0x3, adica
                        #codul pentru read-write
-    movl MAP_Flag, %esi #tot prin inclusive or-are, obtin codul 0x24.
+    movl MAP_Flag, %esi #tot prin inclusive or-are, obtin codul 0x22.
                         #0x20 este codul pentru anonymous mapping, adica
                         #nu doresc folosirea unui fisier in maparea zonei de memorie
-                        #iar 0x4 este codul pentru shared memory mapping
-    movl $-1, %edi #nu folosesc un fisier, asa ca pasez o valoare care sa indice
-                   #sistemului de operare sa nu caute o locatie
+                        #iar 0x2 este codul pentru private memory mapping
+                        #folosesc private memory mapping pentru ca nu folosesc
+                        #mai multe procese
+                        #totodata, folosirea lui map_anonymous imi garanteaza
+                        #ca memoria alocata este initializata cu valoarea 0
+    movl $-1, %edi #pentru ca am folosit map_anonymous, pot ignora acest parametru,
+                   #insa pun valoarea -1 din motive ce tin de compatibilitate
+    xorl %ebp, %ebp #pentru ca am folosit map_anonymous, aceasta valoare trebuie sa fie
+                    #nula, fac xor-are pentru ca e rapid
     int $0x80 #system call
 
     movl %eax, matrice
 
-    movl $192, %eax #codul pentru apel de sistem mmap2
-    xorl %ebx, %ebx #parametru adresa, punand valoarea NULL las SO sa decida
-                  #unde anume sa imi aloce spatiul de memorie
-    movl marimeMatrice, %ecx #aici o sa fie n*n pe care l-am obtinut anterior
-    movl PROT_RW, %edx #0x1 este codul pentru read, 0x2 cel pentru write
-                       #intre ele fac inclusive or si obtin 0x3, adica
-                       #codul pentru read-write
-    movl MAP_Flag, %esi #tot prin inclusive or-are, obtin codul 0x24.
-                        #0x20 este codul pentru anonymous mapping, adica
-                        #nu doresc folosirea unui fisier in maparea zonei de memorie
-                        #iar 0x4 este codul pentru shared memory mapping
-    movl $-1, %edi #nu folosesc un fisier, asa ca pasez o valoare care sa indice
-                   #sistemului de operare sa nu caute o locatie
-    int $0x80 #system call
+    #fac acelasi system call pentru matriceAux si matriceRez
+    movl $192, %eax 
+    xorl %ebx, %ebx 
+    movl marimeMatrice, %ecx 
+    movl PROT_RW, %edx
+    movl MAP_Flag, %esi 
+    movl $-1, %edi 
+    xorl %ebp, %ebp
+    int $0x80
 
     movl %eax, matriceAux
 
-    movl $192, %eax #codul pentru apel de sistem mmap2
-    xorl %ebx, %ebx #parametru adresa, punand valoarea NULL las SO sa decida
-                  #unde anume sa imi aloce spatiul de memorie
-    movl marimeMatrice, %ecx #aici o sa fie n*n pe care l-am obtinut anterior
-    movl PROT_RW, %edx #0x1 este codul pentru read, 0x2 cel pentru write
-                       #intre ele fac inclusive or si obtin 0x3, adica
-                       #codul pentru read-write
-    movl MAP_Flag, %esi #tot prin inclusive or-are, obtin codul 0x24.
-                        #0x20 este codul pentru anonymous mapping, adica
-                        #nu doresc folosirea unui fisier in maparea zonei de memorie
-                        #iar 0x4 este codul pentru shared memory mapping
-    movl $-1, %edi #nu folosesc un fisier, asa ca pasez o valoare care sa indice
-                   #sistemului de operare sa nu caute o locatie
-    int $0x80 #system call
+    movl $192, %eax 
+    xorl %ebx, %ebx 
+    movl marimeMatrice, %ecx 
+    movl PROT_RW, %edx 
+    movl MAP_Flag, %esi 
+    movl $-1, %edi 
+    xorl %ebp, %ebp
+    int $0x80
 
     movl %eax, matriceRez
 
@@ -301,7 +295,7 @@ lscannrvec:
     
     lea (%esi, %ecx, 4), %edi
 
-    pushl %ecx #trebuie sa restaurez ecx dupa scanf?
+    pushl %ecx 
     pushl %edi
     pushl $strScan
     call scanf
@@ -335,7 +329,7 @@ lcitnrvec:
         call scanf
         addl $8, %esp
 
-        // in right am dreapta, in idxNod stanga
+        # in right am dreapta, in idxNod stanga
 
         xorl %eax, %eax
         xorl %edx, %edx
@@ -439,8 +433,8 @@ etcitc2:
     xorl %ecx, %ecx
     movl exponent, %ebx
 
-    // todo matriceAux ia ce este in matriceRez
-    // matriceRez trebuie sa fie initializata cu matrice
+    # todo matriceAux ia ce este in matriceRez
+    # matriceRez trebuie sa fie initializata cu matrice
 
 lmult:
 
@@ -455,7 +449,7 @@ lmult:
     addl $12, %esp
     popl %ecx
 
-    // asta o fac de k-1 ori
+    # asta o fac de k-1 ori
     pushl %ecx
     pushl numarNoduri
     pushl matriceRez
@@ -470,9 +464,9 @@ lmult:
 
 afisc2:
 
-    // ma duc la nodStanga * n + nodDreapta
-    // si iau valoarea din (matriceAns, adr, 4)
-    // o afisez ik ez stuff
+    # ma duc la nodStanga * n + nodDreapta
+    # si iau valoarea din (matriceAns, adr, 4)
+    # o afisez ik ez stuff
 
     movl matriceRez, %esi
     xorl %eax, %eax

@@ -30,7 +30,7 @@
 
         subl $12, %esp #3 variabile locale pt idxlin, idxnod, n
 
-        // accesarea o fac prin scaderea lui ebp
+        # accesarea o fac prin scaderea lui ebp
 
         movl 8(%ebp), %esi
         movl 12(%ebp), %edi
@@ -45,7 +45,7 @@
             movl -16(%ebp), %ebx
             movl -20(%ebp), %ecx
             cmp %ecx, %ebx
-            //je lmultinit
+            #je lmultinit
             je init_matexit
 
             lj:
@@ -84,7 +84,7 @@
 
     matrix_mult:
 
-        //inmultesc m1 la m2 (matrice la matriceAux)
+        #inmultesc m1 la m2 (matrice la matriceAux)
 
         pushl %ebp
         movl %esp, %ebp
@@ -238,7 +238,7 @@ lscannrvec:
     
     lea (%esi, %ecx, 4), %edi
 
-    pushl %ecx #trebuie sa restaurez ecx dupa scanf?
+    pushl %ecx 
     pushl %edi
     pushl $strScan
     call scanf
@@ -272,7 +272,7 @@ lcitnrvec:
         call scanf
         addl $8, %esp
 
-        // in right am dreapta, in idxNod stanga
+        # in right am dreapta, in idxNod stanga
 
         xorl %eax, %eax
         xorl %edx, %edx
@@ -376,8 +376,8 @@ etcitc2:
     xorl %ecx, %ecx
     movl exponent, %ebx
 
-    // todo matriceAux ia ce este in matriceRez
-    // matriceRez trebuie sa fie initializata cu matrice
+    # todo matriceAux ia ce este in matriceRez
+    # matriceRez trebuie sa fie initializata cu matrice
 
 lmult:
 
@@ -392,7 +392,7 @@ lmult:
     addl $12, %esp
     popl %ecx
 
-    // asta o fac de k-1 ori
+    # asta o fac de k-1 ori
     pushl %ecx
     pushl numarNoduri
     pushl $matriceRez
@@ -407,9 +407,9 @@ lmult:
 
 afisc2:
 
-    // ma duc la nodStanga * n + nodDreapta
-    // si iau valoarea din (matriceAns, adr, 4)
-    // o afisez ik ez stuff
+    # ma duc la nodStanga * n + nodDreapta
+    # si iau valoarea din (matriceAns, adr, 4)
+    # o afisez ik ez stuff
 
     lea matriceRez, %esi
     xorl %eax, %eax
