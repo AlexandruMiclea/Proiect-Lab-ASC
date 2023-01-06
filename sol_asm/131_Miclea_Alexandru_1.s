@@ -483,12 +483,30 @@ afisc2:
 
     pushl $0
     call fflush
-    addl $4, %esp
+    addl $4, %esp    
+
+etunmap:
+
+    # zona de munmap, cod apel 91
+    #ebx ia adresa de unde fac unmapping
+    #ecx ia lungimea de memorie pe care fac unmapping
+
+    movl $91, %eax
+    movl matrice, %ebx
+    movl marimeMatrice, %ecx
+    int $0x80
+
+    movl $91, %eax
+    movl matriceAux, %ebx
+    movl marimeMatrice, %ecx
+    int $0x80
+
+    movl $91, %eax
+    movl matriceRez, %ebx
+    movl marimeMatrice, %ecx
+    int $0x80
 
 etexit:
     movl $1, %eax
     xorl %ebx, %ebx
     int $0x80
-    
- 
-    
