@@ -7,6 +7,7 @@
     strPrint: .asciz "%ld "
     strScan:  .asciz "%ld"
     numarNoduri: .space 4
+    strPrintc2: .asciz "%ld"
     strLn:  .asciz "\n"
     idxVecin:.space 4
     idxNod: .space 4
@@ -477,7 +478,7 @@ afisc2:
     movl (%esi, %eax, 4), %ebx
 
     pushl %ebx
-    pushl $strPrint
+    pushl $strPrintc2
     call printf
     addl $8, %esp
 

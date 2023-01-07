@@ -5,6 +5,7 @@
     matriceRez: .space 40000
     numarVecini: .space 400
     strPrint: .asciz "%ld "
+    strPrintc2: .asciz "%ld"
     strScan:  .asciz "%ld"
     numarNoduri: .space 4
     strLn:  .asciz "\n"
@@ -420,7 +421,7 @@ afisc2:
     movl (%esi, %eax, 4), %ebx
 
     pushl %ebx
-    pushl $strPrint
+    pushl $strPrintc2
     call printf
     addl $8, %esp
 
