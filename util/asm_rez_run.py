@@ -15,7 +15,7 @@ for i in range(1000):
     c = test.read()
     l[int(c[0])] += 1
     if (int(c[0]) != 3):
-        bashCommand = "/home/alexmiclea/Documents/Proiect-Lab-ASC/sol_asm/ex_1.o < " + inputs + f"test{i+1}.txt" + " > " + asm_sol + f"test{i+1}.txt"
+        bashCommand = "/home/alexmiclea/Documents/Proiect-Lab-ASC/sol_asm/ex1.o < " + inputs + f"test{i+1}.txt" + " > " + asm_sol + f"test{i+1}.txt"
     else:
         bashCommand = "/home/alexmiclea/Documents/Proiect-Lab-ASC/sol_asm/ex2.o < " + inputs + f"test{i+1}.txt" + " > " + asm_sol + f"test{i+1}.txt"
     os.system(bashCommand)

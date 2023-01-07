@@ -66,7 +66,7 @@ for nr_test in range(1000):
                         Lans[i][j] += L2[i][k] * L1[k][j]
 
             
-        file.write(str(Lans[nodstanga][noddreapta]) + ' ')
+        file.write(str(Lans[nodstanga][noddreapta]))
     # print()
     # print(distanta)
     # print(nodstanga)
